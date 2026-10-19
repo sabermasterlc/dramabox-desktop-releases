@@ -1,496 +1,670 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-19T07:19:32.686Z",
   "projects": [
     {
-      "scope": "creator",
-      "id": "dramabox-42000023840-en",
-      "title": "Pregnant with the Dragon King's Triplets",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Sold by her family to abusive suitors for magical spring water, fox attendant Sylvia — thought unable to bear children — turns up pregnant with triplets after a night with a stranger who's secretly the Dragon King, Cassius. As he shields her from family, rivals, and jealous coworkers, an attack meant to kill her instead reveals she's the long-lost princess of the Nine-Tailed Wolf Clan. Villains fall; Cassius claims her as his queen.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000023840/42000023840.jpg@w=360&h=640",
+      "description": "Sold by her family to abusive suitors for magical spring water, fox attendant Sylvia — thought unable to bear children — turns up pregnant with triplets after a night with a stranger who's secretly the Dragon King, Cassius. As he shields her from family, rivals, and jealous coworkers, an attack meant to kill her instead reveals she's the long-lost princess of the Nine-Tailed Wolf Clan. Villains fall; Cassius claims her as his queen.",
       "dramaUrl": "https://www.dramabox.com/drama/42000023840/Pregnant-with-the-Dragon-King-s-Triplets",
-      "metrics": {
-        "heat": null,
-        "plays": 31083740,
-        "favorites": 788095,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-14T13:08:57.586Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
+      "episodes": 44,
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-14T13:08:57.586Z",
-          "heat": null,
-          "plays": 31083740,
-          "favorites": 788095,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 788095,
+          "heat": null,
+          "plays": 31083740,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-14T13:08:57.586Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 798809,
+          "heat": null,
+          "plays": 31488863,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:11.744Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dramabox-42000023840-en/2026-10.json"
+      ],
+      "id": "dramabox-42000023840-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 798809,
+        "heat": null,
+        "plays": 31488863,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:11.744Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-08-12",
+      "releaseDateField": "firstShelfTime",
       "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
-      "episodes": 44,
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Lost Child",
         "Hidden Identity"
       ],
-      "releaseDate": "2026-08-12",
-      "releaseDateField": "firstShelfTime"
+      "title": "Pregnant with the Dragon King's Triplets"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000029966-en",
-      "title": "I Married the Beast, and the Prince Regretted It",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Princess Eloise of Osilia was poisoned and disfigured while saving her childhood love, Prince Carlos of Lancaster, only for her sister Selena to steal the credit. Carlos fell for Selena but still planned to marry Eloise so she could face danger in Selena’s place. Heartbroken, Eloise switched brides and chose to marry Altan, the feared lord of Varga. On the wedding day, the antidote restored her beauty, and Carlos finally realized she was the one who had saved him.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000029966/42000029966.jpg@w=360&h=640",
+      "description": "Princess Eloise of Osilia was poisoned and disfigured while saving her childhood love, Prince Carlos of Lancaster, only for her sister Selena to steal the credit. Carlos fell for Selena but still planned to marry Eloise so she could face danger in Selena’s place. Heartbroken, Eloise switched brides and chose to marry Altan, the feared lord of Varga. On the wedding day, the antidote restored her beauty, and Carlos finally realized she was the one who had saved him.",
       "dramaUrl": "https://www.dramabox.com/drama/42000029966/I-Married-the-Beast-and-the-Prince-Regretted-It",
-      "metrics": {
-        "heat": null,
-        "plays": 445579,
-        "favorites": 15224,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-14T13:00:23.893Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
+      "episodes": 49,
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-14T13:00:23.893Z",
-          "heat": null,
-          "plays": 445579,
-          "favorites": 15224,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 15224,
+          "heat": null,
+          "plays": 445579,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-14T13:00:23.893Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 68014,
+          "heat": null,
+          "plays": 2951206,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:12.257Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dramabox-42000029966-en/2026-10.json"
+      ],
+      "id": "dramabox-42000029966-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 68014,
+        "heat": null,
+        "plays": 2951206,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:12.257Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-10-13",
+      "releaseDateField": "firstShelfTime",
       "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
-      "episodes": 49,
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Strong Female Lead",
         "Forced Love"
       ],
-      "releaseDate": "2026-10-13",
-      "releaseDateField": "firstShelfTime"
+      "title": "I Married the Beast, and the Prince Regretted It"
     },
     {
-      "scope": "creator",
-      "id": "dragon-lord-returns-en",
-      "title": "The Dragon Lord Returns",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Once the feared Dragon Lord, Kael hides as a lowly car-wash worker after a devastating injury, secretly helping his wife Vexa rise to power. On the night he plans to reveal his identity, he discovers her affair with Riven, heir of House Vale, and is forced into divorce. Cast aside and ridiculed, Kael marries Nyx, the mysterious wheelchair-bound heiress of House Veyra, punishes those who offend them, and takes back the control of the galaxy.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000023596/42000023596.jpg@w=360&h=640",
+      "description": "Once the feared Dragon Lord, Kael hides as a lowly car-wash worker after a devastating injury, secretly helping his wife Vexa rise to power. On the night he plans to reveal his identity, he discovers her affair with Riven, heir of House Vale, and is forced into divorce. Cast aside and ridiculed, Kael marries Nyx, the mysterious wheelchair-bound heiress of House Veyra, punishes those who offend them, and takes back the control of the galaxy.",
       "dramaUrl": "https://www.dramabox.com/drama/42000023596/The-Dragon-Lord-Returns",
-      "metrics": {
-        "heat": null,
-        "plays": 19760866,
-        "favorites": 694717,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-13T09:01:07.065Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
+      "episodes": 56,
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-13T09:01:07.065Z",
-          "heat": null,
-          "plays": 19760866,
-          "favorites": 694717,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 694717,
+          "heat": null,
+          "plays": 19760866,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-13T09:01:07.065Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 711095,
+          "heat": null,
+          "plays": 19926401,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:12.772Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dragon-lord-returns-en/2026-10.json"
+      ],
+      "id": "dragon-lord-returns-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 711095,
+        "heat": null,
+        "plays": 19926401,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:12.772Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-08-10",
+      "releaseDateField": "firstShelfTime",
       "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
-      "episodes": 56,
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Dragon",
         "Comeback Story"
       ],
-      "releaseDate": "2026-08-10",
-      "releaseDateField": "firstShelfTime"
+      "title": "The Dragon Lord Returns"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000025216-en",
-      "title": "Can't Take My Eyes Off You",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Five years after a passionate one-night encounter that was erased from memory, rabbit shifter photographer Mila Steele is raising triplets alone, one of whom is a secret wolf heir. When her two rabbit children discover that billionaire Alpha wolf Jayden Flare may be their father, they launch a mission to reunite their family, forcing Mila and Jayden to confront a forgotten fated-mate bond.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025216/42000025216.jpg@w=360&h=640",
+      "description": "Five years after a passionate one-night encounter that was erased from memory, rabbit shifter photographer Mila Steele is raising triplets alone, one of whom is a secret wolf heir. When her two rabbit children discover that billionaire Alpha wolf Jayden Flare may be their father, they launch a mission to reunite their family, forcing Mila and Jayden to confront a forgotten fated-mate bond.",
       "dramaUrl": "https://www.dramabox.com/drama/42000025216/Can-t-Take-My-Eyes-Off-You",
-      "metrics": {
-        "heat": null,
-        "plays": 2016704,
-        "favorites": 45755,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-13T08:48:50.410Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
+      "episodes": 46,
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-13T08:48:50.410Z",
-          "heat": null,
-          "plays": 2016704,
-          "favorites": 45755,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 45755,
+          "heat": null,
+          "plays": 2016704,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-13T08:48:50.410Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 46472,
+          "heat": null,
+          "plays": 2052927,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:13.287Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dramabox-42000025216-en/2026-10.json"
+      ],
+      "id": "dramabox-42000025216-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 46472,
+        "heat": null,
+        "plays": 2052927,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:13.287Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-08-24",
+      "releaseDateField": "firstShelfTime",
       "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
-      "episodes": 46,
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Family Bonds",
         "Single Mom"
       ],
-      "releaseDate": "2026-08-24",
-      "releaseDateField": "firstShelfTime"
+      "title": "Can't Take My Eyes Off You"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000027409-en",
-      "title": "The Dragon King's True Heiress",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "The trueborn daughter of the Silver Dragon Royalty hides her bloodline for love, only to be humiliated by her fiancé Darian's entire family and framed by the fake Silver Dragon Delia. She goes underground in the Black Dragons' Great Forge, uncovers the dragon hunters' conspiracy, reveals her true identity before the whole assembly, and returns reborn at the Black Dragon King's side, while Darian and Delia reap what they sowed.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000027409/42000027409.jpg@w=360&h=640",
+      "description": "The trueborn daughter of the Silver Dragon Royalty hides her bloodline for love, only to be humiliated by her fiancé Darian's entire family and framed by the fake Silver Dragon Delia. She goes underground in the Black Dragons' Great Forge, uncovers the dragon hunters' conspiracy, reveals her true identity before the whole assembly, and returns reborn at the Black Dragon King's side, while Darian and Delia reap what they sowed.",
       "dramaUrl": "https://www.dramabox.com/drama/42000027409/The-Dragon-King-s-True-Heiress",
-      "metrics": {
-        "heat": null,
-        "plays": 3322825,
-        "favorites": 87859,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-13T08:48:28.991Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
+      "episodes": 40,
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-13T08:48:28.991Z",
-          "heat": null,
-          "plays": 3322825,
-          "favorites": 87859,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 87859,
+          "heat": null,
+          "plays": 3322825,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-13T08:48:28.991Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 91262,
+          "heat": null,
+          "plays": 3476875,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:13.976Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dramabox-42000027409-en/2026-10.json"
+      ],
+      "id": "dramabox-42000027409-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 91262,
+        "heat": null,
+        "plays": 3476875,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:13.976Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-09-15",
+      "releaseDateField": "firstShelfTime",
       "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
-      "episodes": 40,
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Strong Female Lead",
         "Revenge"
       ],
-      "releaseDate": "2026-09-15",
-      "releaseDateField": "firstShelfTime"
+      "title": "The Dragon King's True Heiress"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000025718-en",
-      "title": "Beast Trials: The Last True Tamer",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "A beastless orphan enters the realm's sacred Beast Trials to discover who she is, only to be humiliated and targeted by a corrupt noble house—until untamable creatures bow, a powerful commander chooses her, and the realm learns she is the First Beast's heir.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000025718/42000025718.jpg?t=1788139783459",
+      "description": "A beastless orphan enters the realm's sacred Beast Trials to discover who she is, only to be humiliated and targeted by a corrupt noble house—until untamable creatures bow, a powerful commander chooses her, and the realm learns she is the First Beast's heir.",
       "dramaUrl": "https://www.dramabox.com/drama/42000025718/Beast-Trials-The-Last-True-Tamer",
-      "metrics": {
-        "heat": null,
-        "plays": null,
-        "favorites": null,
-        "source": "",
-        "updatedAt": "",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
-      "history": [],
-      "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
       "episodes": 48,
-      "tags": [],
-      "releaseDate": "2026-08-31",
-      "releaseDateField": "firstShelfTime"
-    },
-    {
-      "scope": "creator",
-      "id": "dramabox-42000022009-en",
-      "title": "The Fae Prince's Secret Heir",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Six years after a fateful night with a masked stranger, Aria enters the Blood Elf palace with her son—unaware that Prince Lucian is the boy’s father. But mistaken identities and an ancient dragon marriage pact threaten to keep them apart.",
-      "role": "",
-      "status": "已上线",
-      "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000022009/42000022009.jpg?t=1785148142078",
-      "dramaUrl": "https://www.dramabox.com/drama/42000022009/The-Fae-Prince-s-Secret-Heir",
-      "metrics": {
-        "heat": null,
-        "plays": null,
-        "favorites": null,
-        "source": "",
-        "updatedAt": "",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
-      "history": [],
-      "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
-      "episodes": 52,
-      "tags": [],
-      "releaseDate": "2026-08-03",
-      "releaseDateField": "firstShelfTime"
-    },
-    {
-      "scope": "creator",
-      "id": "dramabox-42000026615-en",
-      "title": "The Professor's Forbidden Protégée",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Mocked as a \"magicless failure,\" Selena is betrayed by her stepsister and flees into the forbidden Black Forest, where she forms a dangerous bond with Sebastian, her professor cursed by dark magic. Her touch alone can suppress his curse—and he may be the key to unlocking the power sealed within her for twelve years. As desire grows and a conspiracy closes in, Selena must reclaim her magic, while Sebastian must choose between his future and the girl he cannot abandon.",
-      "role": "",
-      "status": "已上线",
-      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000026615/42000026615.jpg@w=360&h=640",
-      "dramaUrl": "https://www.dramabox.com/drama/42000026615/The-Professor-s-Forbidden-Protégée",
-      "metrics": {
-        "heat": null,
-        "plays": 2345630,
-        "favorites": 66818,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-13T08:47:29.113Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-13T08:47:29.113Z",
-          "heat": null,
-          "plays": 2345630,
-          "favorites": 66818,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 171398,
+          "heat": null,
+          "plays": 6607571,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:14.495Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dramabox-42000025718-en/2026-10.json"
+      ],
+      "id": "dramabox-42000025718-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 171398,
+        "heat": null,
+        "plays": 6607571,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:14.495Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-08-31",
+      "releaseDateField": "firstShelfTime",
       "review": "",
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
+      "tags": [],
+      "title": "Beast Trials: The Last True Tamer"
+    },
+    {
       "addedAt": "2026-10-19T07:19:32.686Z",
+      "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000022009/42000022009.jpg?t=1785148142078",
+      "description": "Six years after a fateful night with a masked stranger, Aria enters the Blood Elf palace with her son—unaware that Prince Lucian is the boy’s father. But mistaken identities and an ancient dragon marriage pact threaten to keep them apart.",
+      "dramaUrl": "https://www.dramabox.com/drama/42000022009/The-Fae-Prince-s-Secret-Heir",
+      "episodes": 52,
+      "history": [
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 433907,
+          "heat": null,
+          "plays": 16224939,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:15.011Z"
+        }
+      ],
+      "historyFiles": [
+        "project-history/dramabox-42000022009-en/2026-10.json"
+      ],
+      "id": "dramabox-42000022009-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 433907,
+        "heat": null,
+        "plays": 16224939,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:15.011Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-08-03",
+      "releaseDateField": "firstShelfTime",
+      "review": "",
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
+      "tags": [],
+      "title": "The Fae Prince's Secret Heir"
+    },
+    {
+      "addedAt": "2026-10-19T07:19:32.686Z",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000026615/42000026615.jpg@w=360&h=640",
+      "description": "Mocked as a \"magicless failure,\" Selena is betrayed by her stepsister and flees into the forbidden Black Forest, where she forms a dangerous bond with Sebastian, her professor cursed by dark magic. Her touch alone can suppress his curse—and he may be the key to unlocking the power sealed within her for twelve years. As desire grows and a conspiracy closes in, Selena must reclaim her magic, while Sebastian must choose between his future and the girl he cannot abandon.",
+      "dramaUrl": "https://www.dramabox.com/drama/42000026615/The-Professor-s-Forbidden-Protégée",
       "episodes": 43,
+      "history": [
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 66818,
+          "heat": null,
+          "plays": 2345630,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-13T08:47:29.113Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 67816,
+          "heat": null,
+          "plays": 2391317,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:15.529Z"
+        }
+      ],
+      "historyFiles": [
+        "project-history/dramabox-42000026615-en/2026-10.json"
+      ],
+      "id": "dramabox-42000026615-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 67816,
+        "heat": null,
+        "plays": 2391317,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:15.529Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-09-08",
+      "releaseDateField": "firstShelfTime",
+      "review": "",
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Forbidden Love",
         "Destined Love"
       ],
-      "releaseDate": "2026-09-08",
-      "releaseDateField": "firstShelfTime"
+      "title": "The Professor's Forbidden Protégée"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000029958-en",
-      "title": "My Heart Goes On Without You",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Drowned on her wedding night by her new husband and stepsister on the Titanic, chewing-gum heiress Lucy Wrigley wakes three days before the ship sinks, racing to escape her own murder and save a doomed voyage full of people who think she's out of her mind, only to be blamed for the disaster she died trying to stop.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000029958/42000029958.jpg@w=360&h=640",
+      "description": "Drowned on her wedding night by her new husband and stepsister on the Titanic, chewing-gum heiress Lucy Wrigley wakes three days before the ship sinks, racing to escape her own murder and save a doomed voyage full of people who think she's out of her mind, only to be blamed for the disaster she died trying to stop.",
       "dramaUrl": "https://www.dramabox.com/drama/42000029958/My-Heart-Goes-On-Without-You",
-      "metrics": {
-        "heat": null,
-        "plays": 61275,
-        "favorites": 7841,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-13T08:47:12.052Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
+      "episodes": 46,
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-13T08:47:12.052Z",
-          "heat": null,
-          "plays": 61275,
-          "favorites": 7841,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 7841,
+          "heat": null,
+          "plays": 61275,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-13T08:47:12.052Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 12426,
+          "heat": null,
+          "plays": 175613,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:16.505Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dramabox-42000029958-en/2026-10.json"
+      ],
+      "id": "dramabox-42000029958-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 12426,
+        "heat": null,
+        "plays": 175613,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:16.505Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-10-12",
+      "releaseDateField": "firstShelfTime",
       "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
-      "episodes": 46,
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Strong Female Lead",
         "Revenge"
       ],
-      "releaseDate": "2026-10-12",
-      "releaseDateField": "firstShelfTime"
+      "title": "My Heart Goes On Without You"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000028982-en",
-      "title": "Condemn Me, My President",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Sold to the mob by her own boyfriend, Isabella flees straight into the arms of Will Clifton — President of the United States, and the last man she should want. He hides her in his world: debts quietly paid, a White House badge, stolen nights. But loving a man this close to power draws enemies fast — an ex, a jealous fiancée, a country watching. The harder she tries to run, the harder he pulls her back.",
-      "role": "",
-      "status": "已上线",
-      "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000028982/42000028982.jpg?t=1790653262053",
-      "dramaUrl": "https://www.dramabox.com/drama/42000028982/Condemn-Me-My-President",
-      "metrics": {
-        "heat": null,
-        "plays": null,
-        "favorites": null,
-        "source": "",
-        "updatedAt": "",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
-      "history": [],
-      "review": "",
       "addedAt": "2026-10-19T07:19:32.686Z",
+      "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000028982/42000028982.jpg?t=1790653262053",
+      "description": "Sold to the mob by her own boyfriend, Isabella flees straight into the arms of Will Clifton — President of the United States, and the last man she should want. He hides her in his world: debts quietly paid, a White House badge, stolen nights. But loving a man this close to power draws enemies fast — an ex, a jealous fiancée, a country watching. The harder she tries to run, the harder he pulls her back.",
+      "dramaUrl": "https://www.dramabox.com/drama/42000028982/Condemn-Me-My-President",
       "episodes": 43,
-      "tags": [],
-      "releaseDate": "2026-10-06",
-      "releaseDateField": "firstShelfTime"
-    },
-    {
-      "scope": "creator",
-      "id": "dramabox-42000027390-en",
-      "title": "Seven Seals Broken: The Archmage Returns",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "In 1926 Lanshire, legendary mage Evan Crowne loses his parents to dark magic, and his powers are sealed within the Seven Seals. Three years later, he lives in hiding as a stable hand for the Aster family. When the Blackwoods threaten to destroy the Asters and force Celia into a magical marriage, Evan can no longer stand aside. As Celia faces ruin, the Seven Seals begin to break—and the legendary mage finally returns.",
-      "role": "",
-      "status": "已上线",
-      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000027390/42000027390.jpg@w=360&h=640",
-      "dramaUrl": "https://www.dramabox.com/drama/42000027390/Seven-Seals-Broken-The-Archmage-Returns",
-      "metrics": {
-        "heat": null,
-        "plays": 588894,
-        "favorites": 18288,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-        "updatedAt": "2026-10-13T08:45:47.093Z",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
       "history": [
         {
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-13T08:45:47.093Z",
-          "heat": null,
-          "plays": 588894,
-          "favorites": 18288,
           "comments": null,
           "danmaku": null,
-          "rating": null
+          "favorites": 242458,
+          "heat": null,
+          "plays": 8544138,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:17.019Z"
         }
       ],
+      "historyFiles": [
+        "project-history/dramabox-42000028982-en/2026-10.json"
+      ],
+      "id": "dramabox-42000028982-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 242458,
+        "heat": null,
+        "plays": 8544138,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:17.019Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-10-06",
+      "releaseDateField": "firstShelfTime",
       "review": "",
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
+      "tags": [],
+      "title": "Condemn Me, My President"
+    },
+    {
       "addedAt": "2026-10-19T07:19:32.686Z",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000027390/42000027390.jpg@w=360&h=640",
+      "description": "In 1926 Lanshire, legendary mage Evan Crowne loses his parents to dark magic, and his powers are sealed within the Seven Seals. Three years later, he lives in hiding as a stable hand for the Aster family. When the Blackwoods threaten to destroy the Asters and force Celia into a magical marriage, Evan can no longer stand aside. As Celia faces ruin, the Seven Seals begin to break—and the legendary mage finally returns.",
+      "dramaUrl": "https://www.dramabox.com/drama/42000027390/Seven-Seals-Broken-The-Archmage-Returns",
       "episodes": 43,
+      "history": [
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 18288,
+          "heat": null,
+          "plays": 588894,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
+          "updatedAt": "2026-10-13T08:45:47.093Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 18650,
+          "heat": null,
+          "plays": 606986,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:17.525Z"
+        }
+      ],
+      "historyFiles": [
+        "project-history/dramabox-42000027390-en/2026-10.json"
+      ],
+      "id": "dramabox-42000027390-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 18650,
+        "heat": null,
+        "plays": 606986,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:17.525Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-09-14",
+      "releaseDateField": "firstShelfTime",
+      "review": "",
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Comeback Story",
         "The Chosen One"
       ],
-      "releaseDate": "2026-09-14",
-      "releaseDateField": "firstShelfTime"
+      "title": "Seven Seals Broken: The Archmage Returns"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000028927-en",
-      "title": "Don't Feed My Son, Feed Me",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "After being betrayed by her ex-husband Daniel and his family, Elena is left penniless until a high-paying job as a child's mealtime companion brings her to the Moriarty estate. Her warmth helps lonely, anorexic Luca eat again and draws powerful Adrian to her. Their contract marriage turns into real love, while Elena builds a successful family restaurant. When Daniel's family returns to humiliate her, Elena and Adrian expose their schemes, leading to their downfall.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000028927/42000028927.jpg?t=1790576730634",
+      "description": "After being betrayed by her ex-husband Daniel and his family, Elena is left penniless until a high-paying job as a child's mealtime companion brings her to the Moriarty estate. Her warmth helps lonely, anorexic Luca eat again and draws powerful Adrian to her. Their contract marriage turns into real love, while Elena builds a successful family restaurant. When Daniel's family returns to humiliate her, Elena and Adrian expose their schemes, leading to their downfall.",
       "dramaUrl": "https://www.dramabox.com/drama/42000028927/Don-t-Feed-My-Son-Feed-Me",
-      "metrics": {
-        "heat": null,
-        "plays": null,
-        "favorites": null,
-        "source": "",
-        "updatedAt": "",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
-      "history": [],
-      "review": "",
-      "addedAt": "2026-10-19T07:19:32.686Z",
       "episodes": 40,
-      "tags": [],
+      "history": [
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 62115,
+          "heat": null,
+          "plays": 2405707,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:18.562Z"
+        }
+      ],
+      "historyFiles": [
+        "project-history/dramabox-42000028927-en/2026-10.json"
+      ],
+      "id": "dramabox-42000028927-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 62115,
+        "heat": null,
+        "plays": 2405707,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:18.562Z"
+      },
+      "platform": "dramabox",
       "releaseDate": "2026-10-05",
-      "releaseDateField": "firstShelfTime"
+      "releaseDateField": "firstShelfTime",
+      "review": "",
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
+      "tags": [],
+      "title": "Don't Feed My Son, Feed Me"
     },
     {
-      "scope": "creator",
-      "id": "dramabox-42000029963-en",
-      "title": "Too Wet For Yoga",
-      "platform": "dramabox",
-      "kind": "unknown",
-      "description": "Chloe's controlling husband hires his friend Jack as her hot yoga instructor, unaware he's her former lover. With her husband watching through the glass, every touch rekindles a forbidden desire. Guilt tells her to stop. Her body begs for more. But beneath the heat lies a ruthless scheme that could leave her with nothing. Is Jack her second chance at love, or the trap that will cost her everything?",
-      "role": "",
-      "status": "已上线",
-      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000029963/42000029963.jpg@w=360&h=640",
-      "dramaUrl": "https://www.dramabox.com/drama/42000029963/Too-Wet-For-Yoga",
-      "metrics": {
-        "heat": null,
-        "plays": null,
-        "favorites": null,
-        "source": "",
-        "updatedAt": "",
-        "rating": null,
-        "comments": null,
-        "danmaku": null
-      },
-      "history": [],
-      "review": "",
       "addedAt": "2026-10-19T07:19:32.686Z",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000029963/42000029963.jpg@w=360&h=640",
+      "description": "Chloe's controlling husband hires his friend Jack as her hot yoga instructor, unaware he's her former lover. With her husband watching through the glass, every touch rekindles a forbidden desire. Guilt tells her to stop. Her body begs for more. But beneath the heat lies a ruthless scheme that could leave her with nothing. Is Jack her second chance at love, or the trap that will cost her everything?",
+      "dramaUrl": "https://www.dramabox.com/drama/42000029963/Too-Wet-For-Yoga",
       "episodes": 37,
+      "history": [
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 508900,
+          "heat": null,
+          "plays": 13049494,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-19T07:34:20.774Z"
+        }
+      ],
+      "historyFiles": [
+        "project-history/dramabox-42000029963-en/2026-10.json"
+      ],
+      "id": "dramabox-42000029963-en",
+      "kind": "unknown",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 508900,
+        "heat": null,
+        "plays": 13049494,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-19T07:34:20.774Z"
+      },
+      "platform": "dramabox",
+      "review": "",
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Second Chance",
         "Revenge"
-      ]
+      ],
+      "title": "Too Wet For Yoga"
     }
-  ]
+  ],
+  "updatedAt": "2026-10-19T07:34:20.786Z",
+  "version": 1
 }
