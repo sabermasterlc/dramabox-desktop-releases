@@ -8,13 +8,13 @@
 
 剧场首页 · 沉浸播放 · 自动连播 · 竖屏小窗 · 收藏与续播 · 观影笔记 · 项目复盘
 
-**[⬇ 下载 Windows 版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.2/DramaBox_0.15.2_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.13.0-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
+**[⬇ 下载 Windows 版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.2/DramaBox_0.15.2_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.15.2-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
 
 Windows 10 / 11（64 位） · macOS 14+（Apple 芯片 / Intel 分别下载）
 
 </div>
 
-> macOS 首个预览版已通过云端编译和安装包校验，尚未完成真实 Mac 上的安装、播放和登录测试。当前只有临时签名，未完成 Apple Developer ID 签名和公证。
+> macOS 0.15.2 预览版已通过双架构云端编译和安装包校验，尚未完成真实 Mac 上的安装、播放和登录测试。当前只有临时签名，未完成 Apple Developer ID 签名和公证。
 
 ## 🖥️ 这个项目能做什么？
 
@@ -58,12 +58,12 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 | 电脑类型 | 下载 | 当前状态 |
 | --- | --- | --- |
 | Windows 10 / 11 · 64 位 | [Windows 安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.2/DramaBox_0.15.2_x64-setup.exe) | 0.15.2 |
-| Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.13.0-macos-preview/DramaBox_0.13.0_aarch64.dmg) | macOS 14+ · 预览版 |
-| Mac · Intel 处理器 | [Intel DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.13.0-macos-preview/DramaBox_0.13.0_x64.dmg) | macOS 14+ · 预览版 |
+| Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.2-macos-preview/DramaBox_0.15.2_aarch64.dmg) | macOS 14+ · 预览版 |
+| Mac · Intel 处理器 | [Intel DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.2-macos-preview/DramaBox_0.15.2_x64.dmg) | macOS 14+ · 预览版 |
 
 ### Windows
 
-1. 下载 `DramaBox_0.13.0_x64-setup.exe`，按安装向导完成安装。
+1. 下载 `DramaBox_0.15.2_x64-setup.exe`，按安装向导完成安装。
 2. 启动 DramaBox，按首次网络指南检查片库、封面和公开片源连接。
 3. 以后在“设置与快捷键 → 软件更新”检查新版本。0.8.0 及更早版本需要先手动安装新版。
 
@@ -97,13 +97,15 @@ Mac 版使用系统网络，未提供 Windows 专用 Wi-Fi 通道。Google 独�
 
 ### Mac 版测试到了哪一步？
 
-Apple 芯片和 Intel 两个安装包均已通过云端编译、架构检查、临时签名校验及 DMG 完整性检查。云端 ARM Mac 上通过 194 项前端测试、25 项原生测试；另有 5 项需要特定环境的测试未运行。Intel 安装包由 ARM Mac 交叉编译。两类 Mac 的真实安装、播放、登录与长期运行仍待验证。
+Apple 芯片和 Intel 两个 0.15.2 安装包均已通过云端编译、前端与原生常规测试、架构检查、临时签名校验、DMG 完整性及公开下载哈希核对。Intel 安装包由 ARM Mac 交叉编译。两类 Mac 的真实安装、播放、登录与长期运行仍待验证。Mac 预览版使用手动 DMG 更新，应用内“下载 Mac 更新”会打开本版本下载页。
 
 ### 怎么反馈问题？
 
 在 [Issues](https://github.com/sabermasterlc/dramabox-desktop-releases/issues) 中说明系统版本、芯片/处理器、软件版本、复现步骤与完整错误提示。截图请遮住账号、邮箱、配对码等私人信息。
 
 ## 📌 近期更新
+
+- **macOS 0.15.2 预览版**：同步整幅海报轮播、清晰封面、完整剧名与官网指标、通知及更新弹窗、采集设置浮窗和小窗控件自动隐藏。提供 Apple 芯片与 Intel DMG，均通过云端编译与安装包校验；采用手动下载更新，实机体验仍待验收。
 
 - **Windows 0.15.2**：首页使用整幅海报与人物裁切，支持自动轮播、缩略图切换和暂停；保留完整剧名与官网播放、收藏指标。通知和更新入口简化到标题栏，更新使用独立弹窗；新版本进入通知中心并显示未读红点。项目自动采集设置改为浮窗，修复小窗内停止操作后播放条不自动隐藏的问题。
 
