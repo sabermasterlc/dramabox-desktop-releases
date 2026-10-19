@@ -8,7 +8,7 @@
 
 剧场首页 · 沉浸播放 · 自动连播 · 竖屏小窗 · 收藏与续播 · 观影笔记 · 项目复盘
 
-**[⬇ 下载 Windows 版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.14.0/DramaBox_0.14.0_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.13.0-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
+**[⬇ 下载 Windows 版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.14.1/DramaBox_0.14.1_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.13.0-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
 
 Windows 10 / 11（64 位） · macOS 14+（Apple 芯片 / Intel 分别下载）
 
@@ -57,7 +57,7 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 
 | 电脑类型 | 下载 | 当前状态 |
 | --- | --- | --- |
-| Windows 10 / 11 · 64 位 | [Windows 安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.14.0/DramaBox_0.14.0_x64-setup.exe) | 0.14.0 |
+| Windows 10 / 11 · 64 位 | [Windows 安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.14.1/DramaBox_0.14.1_x64-setup.exe) | 0.14.1 |
 | Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.13.0-macos-preview/DramaBox_0.13.0_aarch64.dmg) | macOS 14+ · 预览版 |
 | Mac · Intel 处理器 | [Intel DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.13.0-macos-preview/DramaBox_0.13.0_x64.dmg) | macOS 14+ · 预览版 |
 
@@ -104,6 +104,8 @@ Apple 芯片和 Intel 两个安装包均已通过云端编译、架构检查、�
 在 [Issues](https://github.com/sabermasterlc/dramabox-desktop-releases/issues) 中说明系统版本、芯片/处理器、软件版本、复现步骤与完整错误提示。截图请遮住账号、邮箱、配对码等私人信息。
 
 ## 📌 近期更新
+
+- **Windows 0.14.1**：修复作者采集的登录读取和网络重试，增加独立连接检查与明确错误提示。此前的一轮真实采集与发布已验证。
 
 - **Windows 0.14.0**：恢复官网推荐、当前首页剧目的观看/追剧指标榜；个人项目支持默认关闭的自动采集和自定义间隔，作者采集控制每次启动默认关闭。
 
