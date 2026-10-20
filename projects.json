@@ -1,6 +1,52 @@
 {
   "projects": [
     {
+      "scope": "creator",
+      "id": "dramabox-42000030917-en",
+      "title": "Halloween Horror Night Game: Tempt the Vampire to Survive",
+      "platform": "dramabox",
+      "kind": "ai",
+      "description": "Trapped in a Halloween amusement park when every exit seals shut, college student Nadia is bound to a deadly romance survival game run by Damien, a cursed vampire boss. To survive the carousel, haunted house, Ferris wheel, mirror maze and more, she must complete intimate tasks to keep his hunger in check. But forced seduction slowly turns into real love, and when their bond hits 100%, only true love can break his century-old curse and set them both free.",
+      "role": "",
+      "status": "已上线",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000030917/42000030917.jpg@w=360&h=640",
+      "dramaUrl": "https://www.dramabox.com/drama/42000030917/Halloween-Horror-Night-Game-Tempt-the-Vampire-to-Survive",
+      "metrics": {
+        "plays": 25429,
+        "favorites": 5052,
+        "heat": null,
+        "comments": null,
+        "danmaku": null,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-20T06:28:41.973Z"
+      },
+      "history": [
+        {
+          "plays": 25429,
+          "favorites": 5052,
+          "heat": null,
+          "comments": null,
+          "danmaku": null,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:28:41.973Z"
+        }
+      ],
+      "historyFiles": [
+        "project-history/dramabox-42000030917-en/2026-10.json"
+      ],
+      "review": "",
+      "addedAt": "2026-10-20T06:28:41.973Z",
+      "episodes": 51,
+      "tags": [
+        "Forced Love",
+        "Student"
+      ],
+      "releaseDate": "2026-10-20",
+      "releaseDateField": "firstShelfTime"
+    },
+    {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000023840/42000023840.jpg@w=360&h=640",
       "description": "Sold by her family to abusive suitors for magical spring water, fox attendant Sylvia — thought unable to bear children — turns up pregnant with triplets after a night with a stranger who's secretly the Dragon King, Cassius. As he shields her from family, rivals, and jealous coworkers, an attack meant to kill her instead reveals she's the long-lost princess of the Nine-Tailed Wolf Clan. Villains fall; Cassius claims her as his queen.",
@@ -115,7 +161,7 @@
           "plays": 31500815,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:01:34.990Z"
+          "updatedAt": "2026-10-19T10:01:34.99Z"
         },
         {
           "comments": null,
@@ -145,7 +191,7 @@
           "plays": 31500815,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:16:36.650Z"
+          "updatedAt": "2026-10-19T10:16:36.65Z"
         },
         {
           "comments": null,
@@ -285,7 +331,7 @@
           "plays": 31504223,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:28:10.870Z"
+          "updatedAt": "2026-10-19T11:28:10.87Z"
         },
         {
           "comments": null,
@@ -305,7 +351,7 @@
           "plays": 31504223,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:38:11.260Z"
+          "updatedAt": "2026-10-19T11:38:11.26Z"
         },
         {
           "comments": null,
@@ -345,7 +391,7 @@
           "plays": 31507534,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:58:13.450Z"
+          "updatedAt": "2026-10-19T11:58:13.45Z"
         },
         {
           "comments": null,
@@ -631,7 +677,7 @@
           "plays": 2978746,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:07:01.400Z"
+          "updatedAt": "2026-10-19T11:07:01.4Z"
         },
         {
           "comments": null,
@@ -651,7 +697,7 @@
           "plays": 2978746,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:13:10.020Z"
+          "updatedAt": "2026-10-19T11:13:10.02Z"
         },
         {
           "comments": null,
@@ -681,7 +727,7 @@
           "plays": 2987503,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:28:11.390Z"
+          "updatedAt": "2026-10-19T11:28:11.39Z"
         },
         {
           "comments": null,
@@ -711,7 +757,7 @@
           "plays": 2987503,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:43:13.620Z"
+          "updatedAt": "2026-10-19T11:43:13.62Z"
         },
         {
           "comments": null,
@@ -761,7 +807,7 @@
           "plays": 3207856,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-20T06:12:55.600Z"
+          "updatedAt": "2026-10-20T06:12:55.6Z"
         }
       ],
       "historyFiles": [
@@ -777,7 +823,7 @@
         "plays": 3207856,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:55.600Z"
+        "updatedAt": "2026-10-20T06:12:55.6Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-13",
@@ -947,7 +993,7 @@
           "plays": 19928242,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:17:26.390Z"
+          "updatedAt": "2026-10-19T10:17:26.39Z"
         },
         {
           "comments": null,
@@ -1117,7 +1163,7 @@
           "plays": 19929610,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:48:13.820Z"
+          "updatedAt": "2026-10-19T11:48:13.82Z"
         },
         {
           "comments": null,
@@ -1203,7 +1249,7 @@
           "plays": 2016704,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开（本机收藏缓存，保留原观测时间）",
-          "updatedAt": "2026-10-13T08:48:50.410Z"
+          "updatedAt": "2026-10-13T08:48:50.41Z"
         },
         {
           "comments": null,
@@ -1443,7 +1489,7 @@
           "plays": 2053428,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:13:11.070Z"
+          "updatedAt": "2026-10-19T11:13:11.07Z"
         },
         {
           "comments": null,
@@ -1493,7 +1539,7 @@
           "plays": 2053428,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:38:13.820Z"
+          "updatedAt": "2026-10-19T11:38:13.82Z"
         },
         {
           "comments": null,
@@ -1533,7 +1579,7 @@
           "plays": 2053600,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:58:15.510Z"
+          "updatedAt": "2026-10-19T11:58:15.51Z"
         },
         {
           "comments": null,
@@ -1769,7 +1815,7 @@
           "plays": 3479632,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:23:21.290Z"
+          "updatedAt": "2026-10-19T10:23:21.29Z"
         },
         {
           "comments": null,
@@ -1839,7 +1885,7 @@
           "plays": 3479632,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:13:11.710Z"
+          "updatedAt": "2026-10-19T11:13:11.71Z"
         },
         {
           "comments": null,
@@ -2065,7 +2111,7 @@
           "plays": 6613160,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:52:10.490Z"
+          "updatedAt": "2026-10-19T09:52:10.49Z"
         },
         {
           "comments": null,
@@ -2275,7 +2321,7 @@
           "plays": 6614263,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:38:15.400Z"
+          "updatedAt": "2026-10-19T11:38:15.4Z"
         },
         {
           "comments": null,
@@ -2335,7 +2381,7 @@
           "plays": 6636817,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-20T06:12:58.790Z"
+          "updatedAt": "2026-10-20T06:12:58.79Z"
         }
       ],
       "historyFiles": [
@@ -2351,7 +2397,7 @@
         "plays": 6636817,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:58.790Z"
+        "updatedAt": "2026-10-20T06:12:58.79Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-31",
@@ -2388,7 +2434,7 @@
           "plays": 16224939,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T08:52:51.250Z"
+          "updatedAt": "2026-10-19T08:52:51.25Z"
         },
         {
           "comments": null,
@@ -2438,7 +2484,7 @@
           "plays": 16226266,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:47:09.410Z"
+          "updatedAt": "2026-10-19T09:47:09.41Z"
         },
         {
           "comments": null,
@@ -2458,7 +2504,7 @@
           "plays": 16226266,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:57:12.420Z"
+          "updatedAt": "2026-10-19T09:57:12.42Z"
         },
         {
           "comments": null,
@@ -2578,7 +2624,7 @@
           "plays": 16226266,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:02:06.180Z"
+          "updatedAt": "2026-10-19T11:02:06.18Z"
         },
         {
           "comments": null,
@@ -2618,7 +2664,7 @@
           "plays": 16226700,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:18:14.820Z"
+          "updatedAt": "2026-10-19T11:18:14.82Z"
         },
         {
           "comments": null,
@@ -2801,7 +2847,7 @@
           "plays": 2392000,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:32:13.610Z"
+          "updatedAt": "2026-10-19T09:32:13.61Z"
         },
         {
           "comments": null,
@@ -2821,7 +2867,7 @@
           "plays": 2392000,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:42:14.060Z"
+          "updatedAt": "2026-10-19T09:42:14.06Z"
         },
         {
           "comments": null,
@@ -2851,7 +2897,7 @@
           "plays": 2392238,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:57:12.900Z"
+          "updatedAt": "2026-10-19T09:57:12.9Z"
         },
         {
           "comments": null,
@@ -2971,7 +3017,7 @@
           "plays": 2392238,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:02:07.170Z"
+          "updatedAt": "2026-10-19T11:02:07.17Z"
         },
         {
           "comments": null,
@@ -3197,7 +3243,7 @@
           "plays": 176451,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:32:14.100Z"
+          "updatedAt": "2026-10-19T09:32:14.1Z"
         },
         {
           "comments": null,
@@ -3247,7 +3293,7 @@
           "plays": 176698,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T09:57:13.380Z"
+          "updatedAt": "2026-10-19T09:57:13.38Z"
         },
         {
           "comments": null,
@@ -3267,7 +3313,7 @@
           "plays": 176698,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:06:40.370Z"
+          "updatedAt": "2026-10-19T10:06:40.37Z"
         },
         {
           "comments": null,
@@ -3347,7 +3393,7 @@
           "plays": 176698,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:33:28.300Z"
+          "updatedAt": "2026-10-19T10:33:28.3Z"
         },
         {
           "comments": null,
@@ -3427,7 +3473,7 @@
           "plays": 176882,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:28:18.380Z"
+          "updatedAt": "2026-10-19T11:28:18.38Z"
         },
         {
           "comments": null,
@@ -3713,7 +3759,7 @@
           "plays": 8574351,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:23:24.880Z"
+          "updatedAt": "2026-10-19T10:23:24.88Z"
         },
         {
           "comments": null,
@@ -3743,7 +3789,7 @@
           "plays": 8574351,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:38:28.320Z"
+          "updatedAt": "2026-10-19T10:38:28.32Z"
         },
         {
           "comments": null,
@@ -3853,7 +3899,7 @@
           "plays": 8585724,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:48:19.430Z"
+          "updatedAt": "2026-10-19T11:48:19.43Z"
         },
         {
           "comments": null,
@@ -4126,7 +4172,7 @@
           "plays": 607159,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:33:29.310Z"
+          "updatedAt": "2026-10-19T10:33:29.31Z"
         },
         {
           "comments": null,
@@ -4246,7 +4292,7 @@
           "plays": 607231,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:48:19.940Z"
+          "updatedAt": "2026-10-19T11:48:19.94Z"
         },
         {
           "comments": null,
@@ -4472,7 +4518,7 @@
           "plays": 2407836,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T10:17:57.050Z"
+          "updatedAt": "2026-10-19T10:17:57.05Z"
         },
         {
           "comments": null,
@@ -4552,7 +4598,7 @@
           "plays": 2407836,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:08:15.860Z"
+          "updatedAt": "2026-10-19T11:08:15.86Z"
         },
         {
           "comments": null,
@@ -4562,7 +4608,7 @@
           "plays": 2407836,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:13:16.640Z"
+          "updatedAt": "2026-10-19T11:13:16.64Z"
         },
         {
           "comments": null,
@@ -4582,7 +4628,7 @@
           "plays": 2408645,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:23:17.660Z"
+          "updatedAt": "2026-10-19T11:23:17.66Z"
         },
         {
           "comments": null,
@@ -5035,7 +5081,7 @@
           "plays": 13427940,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-19T11:58:21.690Z"
+          "updatedAt": "2026-10-19T11:58:21.69Z"
         },
         {
           "comments": null,
@@ -5055,7 +5101,7 @@
           "plays": 13637180,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-20T06:13:03.400Z"
+          "updatedAt": "2026-10-20T06:13:03.4Z"
         }
       ],
       "historyFiles": [
@@ -5071,7 +5117,7 @@
         "plays": 13637180,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:13:03.400Z"
+        "updatedAt": "2026-10-20T06:13:03.4Z"
       },
       "platform": "dramabox",
       "review": "",
@@ -5085,6 +5131,6 @@
       "title": "Too Wet For Yoga"
     }
   ],
-  "updatedAt": "2026-10-20T06:15:57.207Z",
+  "updatedAt": "2026-10-20T06:28:41.973Z",
   "version": 1
 }
