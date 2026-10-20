@@ -8,7 +8,7 @@
 
 AI 字幕翻译 · 剧场首页 · 沉浸播放 · 自动连播 · 竖屏小窗 · 收藏与续播 · 观影笔记 · 项目复盘
 
-**[✨ Windows AI 字幕版 0.15.4（预览）](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.15.4)** · **[⬇ 下载 Windows 稳定版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.2/DramaBox_0.15.2_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.15.3-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
+**[⬇ 下载 Windows 正式版 0.15.6](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.6/DramaBox_0.15.6_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.15.3-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
 
 Windows 10 / 11（64 位） · macOS 14+（Apple 芯片 / Intel 分别下载）
 
@@ -26,12 +26,13 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 
 | 功能 | 现在可以做什么 |
 | --- | --- |
-| 💬 AI 字幕翻译 | Windows 0.15.4 预览版：优先读取可用字幕文件，无字幕时识别音频；中 / 英 / 日 / 韩互译，原文、译文或双语显示；整集处理、自动预处理下一集、本机缓存与字幕导出。[功能详情](docs/ai-subtitles.md) |
+| 💬 AI 字幕翻译 | Windows 0.15.6 正式版：优先读取可用字幕文件，无字幕时识别音频；中 / 英 / 日 / 韩互译，原文、译文或双语显示；整集处理、自动预处理下一集、本机缓存与字幕导出。[功能详情](docs/ai-subtitles.md) |
 | 🎨 字幕样式 | 自定义字体、字号、颜色、描边和背景透明度，支持调整字幕位置；精简播放条，按需显示其他按钮。 |
 | 🎬 剧场与沉浸播放 | 浏览推荐分区，从剧场进入沉浸模式，随时返回片库。 |
 | 🔍 搜索与找剧 | 搜索联想、分页、最近搜索；按官网提供的分类和剧种标签筛选；可查看官网推荐与当前首页剧目的观看、追剧指标排序。 |
 | 🌍 多语言片库 | 切换官网提供的 17 种内容语言；软件界面保持中文。 |
 | ▶️ 播放与续播 | 分组选集、自动下一集、倍速、音量、全屏、播放进度保存；片源提供时可选择音轨与字幕。 |
+| ↔️ 宽屏模式 | 播放设置按钮左侧一键隐藏 / 恢复剧集面板，播放器填满当前可用宽度；跟随窗口尺寸变化，保留播放进度。剧集面板与播放器上下对齐。 |
 | 🪟 桌面观影 | 竖屏模式、小窗、置顶、悬停隐藏、深色与浅色主题。Mac 窗口行为待实机确认。 |
 | ❤️ 收藏与历史 | 本机保存；按登录账号分区，支持旧记录预览迁移、导入与导出。 |
 | 🔔 预约与通知 | 按剧名预约上线、关注选集更新，在软件运行并联网时检查，结果进入本机通知中心。 |
@@ -66,6 +67,14 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 | --- | --- |
 | ![作者作品与公开指标](docs/screenshots/creator-projects.png) | ![项目数据记录与趋势](docs/screenshots/project-data.png) |
 
+### 宽屏与剧集布局
+
+以下使用本地受控视频演示实际播放器组件，不代表平台播放或翻译质量验收。
+
+| 标准模式 · 剧集面板与播放器等高 | 宽屏模式 · 自动占满可用宽度 |
+| --- | --- |
+| ![标准播放布局](docs/screenshots/playback-normal.png) | ![宽屏播放布局](docs/screenshots/playback-wide.png) |
+
 [了解 AI 字幕：安装、语言、样式和预处理](docs/ai-subtitles.md) · [了解项目数据：来源、采集与历史归档](docs/project-data.md)
 
 截图中的海报、剧名与视频画面属于各自权利人，仅用于说明软件界面。
@@ -74,14 +83,13 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 
 | 电脑类型 | 下载 | 当前状态 |
 | --- | --- | --- |
-| Windows 10 / 11 · 64 位 · AI 字幕版 | [AI 字幕安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.4/DramaBox_0.15.4_x64-setup.exe) | 0.15.4 · 预览版，安装包约 22 MB；AI 组件首次另下载约 3.16 GB |
-| Windows 10 / 11 · 64 位 | [Windows 安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.2/DramaBox_0.15.2_x64-setup.exe) | 0.15.2 |
+| Windows 10 / 11 · 64 位 | [Windows 正式安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.6/DramaBox_0.15.6_x64-setup.exe) | **0.15.6 正式版，已包含 AI 字幕功能**；安装包约 23.7 MB，AI 组件首次另下载约 3.16 GB |
 | Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.3-macos-preview/DramaBox_0.15.3_aarch64.dmg) | macOS 14+ · 预览版 |
 | Mac · Intel 处理器 | [Intel DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.3-macos-preview/DramaBox_0.15.3_x64.dmg) | macOS 14+ · 预览版 |
 
 ### Windows
 
-1. 下载 `DramaBox_0.15.2_x64-setup.exe`，按安装向导完成安装。
+1. 下载 `DramaBox_0.15.6_x64-setup.exe`，按安装向导完成安装。
 2. 启动 DramaBox，按首次网络指南检查片库、封面和公开片源连接。
 3. 以后在“设置与快捷键 → 软件更新”检查新版本。0.8.0 及更早版本需要先手动安装新版。
 
@@ -122,6 +130,8 @@ Apple 芯片和 Intel 两个 0.15.3 安装包均已通过云端编译、前端�
 在 [Issues](https://github.com/sabermasterlc/dramabox-desktop-releases/issues) 中说明系统版本、芯片/处理器、软件版本、复现步骤与完整错误提示。截图请遮住账号、邮箱、配对码等私人信息。
 
 ## 📌 近期更新
+
+- **Windows 0.15.6 正式版**：AI 字幕并入正式版，新增字幕设置窗口、整窗定位和换行；新增自适应宽屏模式，修复剧集面板对齐与横向溢出。作者采集与手动发布分开。
 
 - **Windows 0.15.4 预览版**：本地 AI 字幕翻译、自动预处理下一集、字幕样式与位置设置；首次自动下载并校验独立 AI 组件，CPU 可用，兼容时使用 GPU。
 - **作者项目**：新增《Halloween Horror Night Game: Tempt the Vampire to Survive》，从首次官网实测开始记录观看 / 追剧指标，历史按月保存。
