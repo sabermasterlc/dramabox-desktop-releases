@@ -8,7 +8,7 @@
 
 AI 字幕翻译 · 剧场首页 · 沉浸播放 · 自动连播 · 竖屏小窗 · 收藏与续播 · 观影笔记 · 项目复盘
 
-**[⬇ 下载 Windows 正式版 0.15.8](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.8/DramaBox_0.15.8_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.16.0-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
+**[⬇ 下载 Windows 正式版 0.16.1](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.16.1/DramaBox_0.16.1_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.16.0-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
 
 Windows 10 / 11（64 位） · macOS 14+（新版仅 Apple M 系列芯片）
 
@@ -37,6 +37,7 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 | ❤️ 收藏与历史 | 本机保存；按登录账号分区，支持旧记录预览迁移、导入与导出。 |
 | 🔔 预约与通知 | 按剧名预约上线、关注选集更新，在软件运行并联网时检查，结果进入本机通知中心。 |
 | 📝 观影工具 | 保存整剧或分集笔记、整理选集清单，方便回看与复盘。选集清单不等于离线下载。 |
+| 🏷️ 上下架状态 | Windows 0.16.1：官网明确下架时显示 45° 角标与黑白封面；项目记录首次检测时间、下架与恢复历史。再次确认可播放后恢复显示；网络或账号错误不作为下架证据。 |
 | 📁 项目与数据 | 分开管理“我的项目”和“作者项目”；同步作者发布的作品清单及公开指标，查看历史趋势；“我的项目”自动采集默认关闭，可设置 1—1440 分钟间隔。[数据记录详情](docs/project-data.md) |
 | 🔄 Windows 更新 | 0.9.0 及以上安装版支持软件内检查更新、验签后安装。Mac 暂不提供自动更新。 |
 
@@ -83,12 +84,12 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 
 | 电脑类型 | 下载 | 当前状态 |
 | --- | --- | --- |
-| Windows 10 / 11 · 64 位 | [Windows 正式安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.8/DramaBox_0.15.8_x64-setup.exe) | **0.15.8 正式版，已包含 AI 字幕、登录网络修复与选集界面优化**；安装包约 23.7 MB，AI 组件首次另下载约 3.16 GB |
+| Windows 10 / 11 · 64 位 | [Windows 正式安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.16.1/DramaBox_0.16.1_x64-setup.exe) | **0.16.1 正式版，新增剧集下架标记与恢复记录，保留 AI 字幕和登录修复**；安装包约 23.7 MB，AI 组件首次另下载约 3.16 GB |
 | Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.16.0-macos-preview/DramaBox_0.16.0_aarch64.dmg) | macOS 14+ · 预览版 |
 
 ### Windows
 
-1. 下载 `DramaBox_0.15.8_x64-setup.exe`，按安装向导完成安装。
+1. 下载 `DramaBox_0.16.1_x64-setup.exe`，按安装向导完成安装。
 2. 启动 DramaBox，按首次网络指南检查片库、封面和公开片源连接。
 3. 以后在“设置与快捷键 → 软件更新”检查新版本。0.8.0 及更早版本需要先手动安装新版。
 
@@ -132,6 +133,7 @@ Apple M 芯片 0.16.0 安装包通过云端编译、原生组件安装与修复�
 
 - **macOS 0.16.0 · M 芯片 AI 预览版**：支持独立下载本地识别与翻译组件，无需手动安装 Python；默认 Metal 翻译并提供 CPU 回退。安装、修复、语音识别与中英双向翻译已在云端验证，首次需约 3.1 GB 下载及 12 GB 可用空间。新版不再支持 Intel。
 
+- **Windows 0.16.1**：新增下架斜角标、暗淡黑白封面、检测时间与恢复历史；作者端先在本机记录，手动发布后共享。
 - **Windows 0.15.8**：精简剧集按钮与分组，播放条选集改为宽版浮层，重做更新窗口与下载进度，更换小窗图标。
 - **Windows 0.15.7**：修复 Wi-Fi 模式下独立 Google 登录窗口未跟随系统代理的问题；DramaBox 与第三方登录分开路由，保留账号资料。
 
