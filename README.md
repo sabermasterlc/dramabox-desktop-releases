@@ -8,13 +8,13 @@
 
 AI 字幕翻译 · 剧场首页 · 沉浸播放 · 自动连播 · 竖屏小窗 · 收藏与续播 · 观影笔记 · 项目复盘
 
-**[⬇ 下载 Windows 正式版 0.15.8](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.8/DramaBox_0.15.8_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.15.3-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
+**[⬇ 下载 Windows 正式版 0.15.8](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.8/DramaBox_0.15.8_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.16.0-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
 
-Windows 10 / 11（64 位） · macOS 14+（Apple 芯片 / Intel 分别下载）
+Windows 10 / 11（64 位） · macOS 14+（新版仅 Apple M 系列芯片）
 
 </div>
 
-> macOS 0.15.3 预览版已通过双架构云端编译和安装包校验，尚未完成真实 Mac 上的安装、播放和登录测试。当前只有临时签名，未完成 Apple Developer ID 签名和公证。
+> macOS 0.16.0 为 Apple M 芯片专用 AI 字幕预览版。云端组件安装、修复、识别与中英双向翻译测试通过；真实 Mac 播放联动仍待验收。采用临时签名，未完成 Apple Developer ID 签名和公证。
 
 ## 🖥️ 这个项目能做什么？
 
@@ -84,8 +84,7 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 | 电脑类型 | 下载 | 当前状态 |
 | --- | --- | --- |
 | Windows 10 / 11 · 64 位 | [Windows 正式安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.8/DramaBox_0.15.8_x64-setup.exe) | **0.15.8 正式版，已包含 AI 字幕、登录网络修复与选集界面优化**；安装包约 23.7 MB，AI 组件首次另下载约 3.16 GB |
-| Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.3-macos-preview/DramaBox_0.15.3_aarch64.dmg) | macOS 14+ · 预览版 |
-| Mac · Intel 处理器 | [Intel DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.3-macos-preview/DramaBox_0.15.3_x64.dmg) | macOS 14+ · 预览版 |
+| Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.16.0-macos-preview/DramaBox_0.16.0_aarch64.dmg) | macOS 14+ · 预览版 |
 
 ### Windows
 
@@ -97,7 +96,7 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 
 ### macOS
 
-1. 在“关于本机”查看芯片或处理器，下载对应 DMG。两个安装包分别用于 Apple 芯片和 Intel，不能互相替代。
+1. 在“关于本机”确认是 Apple M 系列芯片，再下载 aarch64 DMG。新版停止 Intel 开发，历史 Intel 包仍保留在旧版发行记录中。
 2. 打开 DMG，将左侧 DramaBox 拖到右侧 Applications（应用程序），等待复制完成后从“应用程序”启动，再在访达侧栏弹出 DramaBox 磁盘映像。
 3. 当前预览版未公证，首次启动可能被系统阻止。核对下载来源与附件校验值后，可参考 [Apple 的打开 App 说明](https://support.apple.com/zh-cn/102445)。如果系统报告损坏、恶意软件或其他错误，请保留完整提示并反馈。
 
@@ -123,13 +122,15 @@ Mac 版使用系统网络，未提供 Windows 专用 Wi-Fi 通道。Google 独�
 
 ### Mac 版测试到了哪一步？
 
-Apple 芯片和 Intel 两个 0.15.3 安装包均已通过云端编译、前端与原生常规测试、架构检查、临时签名校验、DMG 完整性及公开下载哈希核对。Intel 安装包由 ARM Mac 交叉编译。两类 Mac 的真实安装、播放、登录与长期运行仍待验证。Mac 预览版使用手动 DMG 更新，应用内“下载 Mac 更新”会打开本版本下载页。
+Apple M 芯片 0.16.0 安装包通过云端编译、原生组件安装与修复、测试音频识别、中英双向翻译、架构检查、临时签名和 DMG 完整性检查。Metal 日志确认 35/35 层模型参与 GPU 计算。真实 Mac 播放联动、长剧集速度、登录与长期运行仍待验证。Mac 使用手动 DMG 更新。
 
 ### 怎么反馈问题？
 
 在 [Issues](https://github.com/sabermasterlc/dramabox-desktop-releases/issues) 中说明系统版本、芯片/处理器、软件版本、复现步骤与完整错误提示。截图请遮住账号、邮箱、配对码等私人信息。
 
 ## 📌 近期更新
+
+- **macOS 0.16.0 · M 芯片 AI 预览版**：支持独立下载本地识别与翻译组件，无需手动安装 Python；默认 Metal 翻译并提供 CPU 回退。安装、修复、语音识别与中英双向翻译已在云端验证，首次需约 3.1 GB 下载及 12 GB 可用空间。新版不再支持 Intel。
 
 - **Windows 0.15.8**：精简剧集按钮与分组，播放条选集改为宽版浮层，重做更新窗口与下载进度，更换小窗图标。
 - **Windows 0.15.7**：修复 Wi-Fi 模式下独立 Google 登录窗口未跟随系统代理的问题；DramaBox 与第三方登录分开路由，保留账号资料。
