@@ -8,7 +8,7 @@
 
 AI 字幕翻译 · 剧场首页 · 沉浸播放 · 自动连播 · 竖屏小窗 · 收藏与续播 · 观影笔记 · 项目复盘
 
-**[⬇ 下载 Windows 正式版 0.15.6](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.6/DramaBox_0.15.6_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.15.3-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
+**[⬇ 下载 Windows 正式版 0.15.7](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.7/DramaBox_0.15.7_x64-setup.exe)** · **[🍎 下载 Mac 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.15.3-macos-preview)** · **[查看全部版本](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)**
 
 Windows 10 / 11（64 位） · macOS 14+（Apple 芯片 / Intel 分别下载）
 
@@ -83,13 +83,13 @@ DramaBox 是一个面向电脑使用的非官方短剧客户端。打开软件�
 
 | 电脑类型 | 下载 | 当前状态 |
 | --- | --- | --- |
-| Windows 10 / 11 · 64 位 | [Windows 正式安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.6/DramaBox_0.15.6_x64-setup.exe) | **0.15.6 正式版，已包含 AI 字幕功能**；安装包约 23.7 MB，AI 组件首次另下载约 3.16 GB |
+| Windows 10 / 11 · 64 位 | [Windows 正式安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.7/DramaBox_0.15.7_x64-setup.exe) | **0.15.7 正式版，已包含 AI 字幕与登录网络修复**；安装包约 23.7 MB，AI 组件首次另下载约 3.16 GB |
 | Mac · Apple 芯片（M 系列） | [Apple 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.3-macos-preview/DramaBox_0.15.3_aarch64.dmg) | macOS 14+ · 预览版 |
 | Mac · Intel 处理器 | [Intel DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.15.3-macos-preview/DramaBox_0.15.3_x64.dmg) | macOS 14+ · 预览版 |
 
 ### Windows
 
-1. 下载 `DramaBox_0.15.6_x64-setup.exe`，按安装向导完成安装。
+1. 下载 `DramaBox_0.15.7_x64-setup.exe`，按安装向导完成安装。
 2. 启动 DramaBox，按首次网络指南检查片库、封面和公开片源连接。
 3. 以后在“设置与快捷键 → 软件更新”检查新版本。0.8.0 及更早版本需要先手动安装新版。
 
@@ -115,7 +115,7 @@ Mac 版使用系统网络，未提供 Windows 专用 Wi-Fi 通道。Google 独�
 
 ### 为什么搜不到剧，或者视频无法加载？
 
-先确认片库语言和网络连接，再使用软件中的连接检查。官网访问策略、内容地区、账号授权或片源状态都可能影响结果。Windows 的可选 Wi-Fi 通道与 Mac 的系统网络是不同的连接方式。
+先确认片库语言和网络连接，再使用软件中的连接检查。Windows 0.15.7 起，Wi-Fi 模式下独立登录窗口访问 Google 等第三方时跟随系统代理，DramaBox 使用 App Wi-Fi 通道。若 Google 报连接关闭，请确认系统代理软件可用，更新软件后关闭旧登录窗口并重新打开。官网访问策略、内容地区、账号授权或片源状态都可能影响结果。Windows 的可选 Wi-Fi 通道与 Mac 的系统网络是不同的连接方式。
 
 ### 为什么项目数据和手机上看到的不一样？
 
@@ -130,6 +130,8 @@ Apple 芯片和 Intel 两个 0.15.3 安装包均已通过云端编译、前端�
 在 [Issues](https://github.com/sabermasterlc/dramabox-desktop-releases/issues) 中说明系统版本、芯片/处理器、软件版本、复现步骤与完整错误提示。截图请遮住账号、邮箱、配对码等私人信息。
 
 ## 📌 近期更新
+
+- **Windows 0.15.7**：修复 Wi-Fi 模式下独立 Google 登录窗口未跟随系统代理的问题；DramaBox 与第三方登录分开路由，保留账号资料。
 
 - **Windows 0.15.6 正式版**：AI 字幕并入正式版，新增字幕设置窗口、整窗定位和换行；新增自适应宽屏模式，修复剧集面板对齐与横向溢出。作者采集与手动发布分开。
 
