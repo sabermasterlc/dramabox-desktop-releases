@@ -1,16 +1,1 @@
-{
-  "version": 1,
-  "projectId": "dramabox-42000030917-en",
-  "history": [
-    {
-      "plays": 25429,
-      "favorites": 5052,
-      "heat": null,
-      "comments": null,
-      "danmaku": null,
-      "rating": null,
-      "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-      "updatedAt": "2026-10-20T06:28:41.973Z"
-    }
-  ]
-}
+{"history":[{"comments":null,"danmaku":null,"favorites":5052,"heat":null,"plays":25429,"rating":null,"source":"DramaBox 官网详情：观看 / 追剧指标，统计周期未公开","updatedAt":"2026-10-20T06:28:41.973Z"},{"comments":null,"danmaku":null,"favorites":5052,"heat":null,"plays":25429,"rating":null,"source":"DramaBox 官网详情：观看 / 追剧指标，统计周期未公开","updatedAt":"2026-10-20T06:39:01.957Z"}],"projectId":"dramabox-42000030917-en","version":1}

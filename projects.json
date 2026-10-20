@@ -1,50 +1,60 @@
 {
   "projects": [
     {
-      "scope": "creator",
-      "id": "dramabox-42000030917-en",
-      "title": "Halloween Horror Night Game: Tempt the Vampire to Survive",
-      "platform": "dramabox",
-      "kind": "ai",
-      "description": "Trapped in a Halloween amusement park when every exit seals shut, college student Nadia is bound to a deadly romance survival game run by Damien, a cursed vampire boss. To survive the carousel, haunted house, Ferris wheel, mirror maze and more, she must complete intimate tasks to keep his hunger in check. But forced seduction slowly turns into real love, and when their bond hits 100%, only true love can break his century-old curse and set them both free.",
-      "role": "",
-      "status": "已上线",
+      "addedAt": "2026-10-20T06:28:41.973Z",
       "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000030917/42000030917.jpg@w=360&h=640",
+      "description": "Trapped in a Halloween amusement park when every exit seals shut, college student Nadia is bound to a deadly romance survival game run by Damien, a cursed vampire boss. To survive the carousel, haunted house, Ferris wheel, mirror maze and more, she must complete intimate tasks to keep his hunger in check. But forced seduction slowly turns into real love, and when their bond hits 100%, only true love can break his century-old curse and set them both free.",
       "dramaUrl": "https://www.dramabox.com/drama/42000030917/Halloween-Horror-Night-Game-Tempt-the-Vampire-to-Survive",
-      "metrics": {
-        "plays": 25429,
-        "favorites": 5052,
-        "heat": null,
-        "comments": null,
-        "danmaku": null,
-        "rating": null,
-        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:28:41.973Z"
-      },
+      "episodes": 51,
       "history": [
         {
-          "plays": 25429,
-          "favorites": 5052,
-          "heat": null,
           "comments": null,
           "danmaku": null,
+          "favorites": 5052,
+          "heat": null,
+          "plays": 25429,
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:28:41.973Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 5052,
+          "heat": null,
+          "plays": 25429,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:01.957Z"
         }
       ],
       "historyFiles": [
         "project-history/dramabox-42000030917-en/2026-10.json"
       ],
+      "id": "dramabox-42000030917-en",
+      "kind": "ai",
+      "metrics": {
+        "comments": null,
+        "danmaku": null,
+        "favorites": 5052,
+        "heat": null,
+        "plays": 25429,
+        "rating": null,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-10-20T06:39:01.957Z"
+      },
+      "platform": "dramabox",
+      "releaseDate": "2026-10-20",
+      "releaseDateField": "firstShelfTime",
       "review": "",
-      "addedAt": "2026-10-20T06:28:41.973Z",
-      "episodes": 51,
+      "role": "",
+      "scope": "creator",
+      "status": "已上线",
       "tags": [
         "Forced Love",
         "Student"
       ],
-      "releaseDate": "2026-10-20",
-      "releaseDateField": "firstShelfTime"
+      "title": "Halloween Horror Night Game: Tempt the Vampire to Survive"
     },
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
@@ -412,6 +422,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:12:54.921Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 800900,
+          "heat": null,
+          "plays": 31572814,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:03.215Z"
         }
       ],
       "historyFiles": [
@@ -422,12 +442,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 800588,
+        "favorites": 800900,
         "heat": null,
-        "plays": 31559278,
+        "plays": 31572814,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:54.921Z"
+        "updatedAt": "2026-10-20T06:39:03.215Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-12",
@@ -808,6 +828,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:12:55.6Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 73495,
+          "heat": null,
+          "plays": 3223079,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:03.945Z"
         }
       ],
       "historyFiles": [
@@ -818,12 +848,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 73316,
+        "favorites": 73495,
         "heat": null,
-        "plays": 3207856,
+        "plays": 3223079,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:55.6Z"
+        "updatedAt": "2026-10-20T06:39:03.945Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-13",
@@ -1204,6 +1234,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:12:56.099Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 713007,
+          "heat": null,
+          "plays": 19951380,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:05.459Z"
         }
       ],
       "historyFiles": [
@@ -1214,12 +1254,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 712991,
+        "favorites": 713007,
         "heat": null,
         "plays": 19951380,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:56.099Z"
+        "updatedAt": "2026-10-20T06:39:05.459Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-10",
@@ -1600,6 +1640,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:12:57.087Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 46537,
+          "heat": null,
+          "plays": 2057022,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:06.773Z"
         }
       ],
       "historyFiles": [
@@ -1610,12 +1660,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 46540,
+        "favorites": 46537,
         "heat": null,
-        "plays": 2057267,
+        "plays": 2057022,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:57.087Z"
+        "updatedAt": "2026-10-20T06:39:06.773Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-24",
@@ -1996,6 +2046,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:12:58.161Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 91610,
+          "heat": null,
+          "plays": 3494246,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:08.238Z"
         }
       ],
       "historyFiles": [
@@ -2006,12 +2066,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 91635,
+        "favorites": 91610,
         "heat": null,
-        "plays": 3495892,
+        "plays": 3494246,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:58.161Z"
+        "updatedAt": "2026-10-20T06:39:08.238Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-09-15",
@@ -2382,6 +2442,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:12:58.79Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 172178,
+          "heat": null,
+          "plays": 6644953,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:09.006Z"
         }
       ],
       "historyFiles": [
@@ -2392,12 +2462,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 172035,
+        "favorites": 172178,
         "heat": null,
-        "plays": 6636817,
+        "plays": 6644953,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:58.79Z"
+        "updatedAt": "2026-10-20T06:39:09.006Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-31",
@@ -2765,6 +2835,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:12:59.761Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 434359,
+          "heat": null,
+          "plays": 16240695,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:10.312Z"
         }
       ],
       "historyFiles": [
@@ -2775,12 +2855,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 434248,
+        "favorites": 434359,
         "heat": null,
-        "plays": 16236211,
+        "plays": 16240695,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:12:59.761Z"
+        "updatedAt": "2026-10-20T06:39:10.312Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-03",
@@ -3158,6 +3238,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:13:00.426Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 68157,
+          "heat": null,
+          "plays": 2402615,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:11.315Z"
         }
       ],
       "historyFiles": [
@@ -3173,7 +3263,7 @@
         "plays": 2402615,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:13:00.426Z"
+        "updatedAt": "2026-10-20T06:39:11.315Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-09-08",
@@ -3554,6 +3644,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:13:00.934Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 12619,
+          "heat": null,
+          "plays": 182379,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:12.353Z"
         }
       ],
       "historyFiles": [
@@ -3564,12 +3664,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 12618,
+        "favorites": 12619,
         "heat": null,
-        "plays": 182200,
+        "plays": 182379,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:13:00.934Z"
+        "updatedAt": "2026-10-20T06:39:12.353Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-12",
@@ -3940,6 +4040,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:13:01.919Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 250379,
+          "heat": null,
+          "plays": 8823351,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:13.073Z"
         }
       ],
       "historyFiles": [
@@ -3950,12 +4060,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 250172,
+        "favorites": 250379,
         "heat": null,
-        "plays": 8813524,
+        "plays": 8823351,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:13:01.919Z"
+        "updatedAt": "2026-10-20T06:39:13.073Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-06",
@@ -4333,6 +4443,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:13:02.419Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 18676,
+          "heat": null,
+          "plays": 608458,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:14.083Z"
         }
       ],
       "historyFiles": [
@@ -4343,12 +4463,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 18673,
+        "favorites": 18676,
         "heat": null,
-        "plays": 608366,
+        "plays": 608458,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:13:02.419Z"
+        "updatedAt": "2026-10-20T06:39:14.083Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-09-14",
@@ -4719,6 +4839,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:13:02.917Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 62402,
+          "heat": null,
+          "plays": 2420837,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:14.878Z"
         }
       ],
       "historyFiles": [
@@ -4729,12 +4859,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 62579,
+        "favorites": 62402,
         "heat": null,
-        "plays": 2429507,
+        "plays": 2420837,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:13:02.917Z"
+        "updatedAt": "2026-10-20T06:39:14.878Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-05",
@@ -5102,6 +5232,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-20T06:13:03.4Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 518821,
+          "heat": null,
+          "plays": 13637180,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-20T06:39:16.268Z"
         }
       ],
       "historyFiles": [
@@ -5112,12 +5252,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 518818,
+        "favorites": 518821,
         "heat": null,
         "plays": 13637180,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-20T06:13:03.4Z"
+        "updatedAt": "2026-10-20T06:39:16.268Z"
       },
       "platform": "dramabox",
       "review": "",
@@ -5131,6 +5271,6 @@
       "title": "Too Wet For Yoga"
     }
   ],
-  "updatedAt": "2026-10-20T06:28:41.973Z",
+  "updatedAt": "2026-10-20T06:39:26.928Z",
   "version": 1
 }
