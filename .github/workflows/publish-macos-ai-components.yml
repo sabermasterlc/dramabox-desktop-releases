@@ -1,0 +1,39 @@
+name: Publish verified Mac AI component
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  transfer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Copy only the verified distributable
+        env:
+          COMPONENT_TRANSFER_URL: ${{ secrets.MACOS_AI_COMPONENT_TRANSFER_URL }}
+        run: |
+          python3 - <<'PY'
+          import hashlib,os,shutil,urllib.request,zipfile
+          try:
+              with urllib.request.urlopen(os.environ['COMPONENT_TRANSFER_URL'],timeout=180) as response,open('artifact.zip','wb') as out:
+                  shutil.copyfileobj(response,out)
+              with zipfile.ZipFile('artifact.zip') as archive:
+                  info=archive.getinfo('ai-core-macos-arm64-v1.zip')
+                  assert info.file_size==640009479
+                  with archive.open(info) as source,open('ai-core-macos-arm64-v1.zip','wb') as target:
+                      shutil.copyfileobj(source,target)
+              digest=hashlib.sha256()
+              with open('ai-core-macos-arm64-v1.zip','rb') as source:
+                  for part in iter(lambda:source.read(1048576),b''):digest.update(part)
+              assert digest.hexdigest()=='0d1a55530f2e53941d16a587beed5e5bf8ca050fb7f4047099c2ebb6e01cdf28'
+              print('Verified M-series component copied; source URL was not logged.')
+          except Exception:
+              raise SystemExit('Verified component transfer failed; no upload was attempted.')
+          PY
+      - name: Upload to existing component draft
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          test "$(gh release view ai-components-macos-arm64-v1 --json isDraft --jq .isDraft)" = true
+          gh release upload ai-components-macos-arm64-v1 ai-core-macos-arm64-v1.zip
