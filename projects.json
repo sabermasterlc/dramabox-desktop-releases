@@ -3,7 +3,7 @@
     {
       "addedAt": "2026-10-20T06:28:41.973Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:38.547Z",
+        "checkedAt": "2026-10-27T09:25:14.007Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -13,16 +13,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000030917/Halloween-Horror-Night-Game-Tempt-the-Vampire-to-Survive",
       "episodes": 51,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 46411,
-          "heat": null,
-          "plays": 1294087,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:15.544Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -2892,6 +2882,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:38.547Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 105030,
+          "heat": null,
+          "plays": 3229164,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:14.007Z"
         }
       ],
       "historyFiles": [
@@ -2902,12 +2902,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 73141,
+        "favorites": 105030,
         "heat": null,
-        "plays": 2126441,
+        "plays": 3229164,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:38.547Z"
+        "updatedAt": "2026-10-27T09:25:14.007Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-20",
@@ -2925,7 +2925,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:39.255Z",
+        "checkedAt": "2026-10-27T09:25:14.970Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -2935,16 +2935,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000023840/Pregnant-with-the-Dragon-King-s-Triplets",
       "episodes": 44,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 809304,
-          "heat": null,
-          "plays": 31911711,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:16.042Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -5814,6 +5804,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:39.255Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 814148,
+          "heat": null,
+          "plays": 32111761,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:14.970Z"
         }
       ],
       "historyFiles": [
@@ -5824,12 +5824,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 811363,
+        "favorites": 814148,
         "heat": null,
-        "plays": 31996738,
+        "plays": 32111761,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:39.255Z"
+        "updatedAt": "2026-10-27T09:25:14.970Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-12",
@@ -5847,7 +5847,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:40.264Z",
+        "checkedAt": "2026-10-27T09:25:15.495Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -5857,16 +5857,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000029966/I-Married-the-Beast-and-the-Prince-Regretted-It",
       "episodes": 49,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 88588,
-          "heat": null,
-          "plays": 4024026,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:16.546Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -8736,6 +8726,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:40.264Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 91897,
+          "heat": null,
+          "plays": 4207359,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:15.495Z"
         }
       ],
       "historyFiles": [
@@ -8746,12 +8746,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 90276,
+        "favorites": 91897,
         "heat": null,
-        "plays": 4116852,
+        "plays": 4207359,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:40.264Z"
+        "updatedAt": "2026-10-27T09:25:15.495Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-13",
@@ -8769,7 +8769,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:40.820Z",
+        "checkedAt": "2026-10-27T09:25:16.203Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -8779,16 +8779,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000023596/The-Dragon-Lord-Returns",
       "episodes": 56,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 720866,
-          "heat": null,
-          "plays": 20051614,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:17.583Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -11658,6 +11648,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:40.820Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 723970,
+          "heat": null,
+          "plays": 20086150,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:16.203Z"
         }
       ],
       "historyFiles": [
@@ -11668,12 +11668,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 722405,
+        "favorites": 723970,
         "heat": null,
-        "plays": 20068017,
+        "plays": 20086150,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:40.820Z"
+        "updatedAt": "2026-10-27T09:25:16.203Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-10",
@@ -11691,7 +11691,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:41.348Z",
+        "checkedAt": "2026-10-27T09:25:16.710Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -11701,16 +11701,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000025216/Can-t-Take-My-Eyes-Off-You",
       "episodes": 46,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 46817,
-          "heat": null,
-          "plays": 2074008,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:18.593Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -14580,6 +14570,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:41.348Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 46953,
+          "heat": null,
+          "plays": 2082179,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:16.710Z"
         }
       ],
       "historyFiles": [
@@ -14590,12 +14590,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 46880,
+        "favorites": 46953,
         "heat": null,
-        "plays": 2078075,
+        "plays": 2082179,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:41.348Z"
+        "updatedAt": "2026-10-27T09:25:16.710Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-24",
@@ -14613,7 +14613,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:42.373Z",
+        "checkedAt": "2026-10-27T09:25:17.221Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -14623,16 +14623,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000027409/The-Dragon-King-s-True-Heiress",
       "episodes": 40,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 94631,
-          "heat": null,
-          "plays": 3580681,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:19.662Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -17502,6 +17492,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:42.373Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 97540,
+          "heat": null,
+          "plays": 3631034,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:17.221Z"
         }
       ],
       "historyFiles": [
@@ -17512,12 +17512,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 96240,
+        "favorites": 97540,
         "heat": null,
-        "plays": 3607915,
+        "plays": 3631034,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:42.373Z"
+        "updatedAt": "2026-10-27T09:25:17.221Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-09-15",
@@ -17535,7 +17535,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:42.911Z",
+        "checkedAt": "2026-10-27T09:25:17.738Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -17545,16 +17545,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000025718/Beast-Trials-The-Last-True-Tamer",
       "episodes": 48,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 174537,
-          "heat": null,
-          "plays": 6763653,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:20.671Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -20424,6 +20414,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:42.911Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 176159,
+          "heat": null,
+          "plays": 6839421,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:17.738Z"
         }
       ],
       "historyFiles": [
@@ -20434,12 +20434,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 175584,
+        "favorites": 176159,
         "heat": null,
-        "plays": 6806124,
+        "plays": 6839421,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:42.911Z"
+        "updatedAt": "2026-10-27T09:25:17.738Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-31",
@@ -20454,7 +20454,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:43.951Z",
+        "checkedAt": "2026-10-27T09:25:18.412Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -20464,16 +20464,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000022009/The-Fae-Prince-s-Secret-Heir",
       "episodes": 52,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 435804,
-          "heat": null,
-          "plays": 16312778,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:21.186Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -23343,6 +23333,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:43.951Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 436258,
+          "heat": null,
+          "plays": 16342035,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:18.412Z"
         }
       ],
       "historyFiles": [
@@ -23353,12 +23353,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 436062,
+        "favorites": 436258,
         "heat": null,
-        "plays": 16329589,
+        "plays": 16342035,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:43.951Z"
+        "updatedAt": "2026-10-27T09:25:18.412Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-08-03",
@@ -23373,7 +23373,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:44.507Z",
+        "checkedAt": "2026-10-27T09:25:18.918Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -23383,16 +23383,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000026615/The-Professor-s-Forbidden-Protégée",
       "episodes": 43,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 69020,
-          "heat": null,
-          "plays": 2441732,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:21.696Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -26262,6 +26252,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:44.507Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 69647,
+          "heat": null,
+          "plays": 2466507,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:18.918Z"
         }
       ],
       "historyFiles": [
@@ -26272,12 +26272,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 69181,
+        "favorites": 69647,
         "heat": null,
-        "plays": 2448355,
+        "plays": 2466507,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:44.507Z"
+        "updatedAt": "2026-10-27T09:25:18.918Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-09-08",
@@ -26295,7 +26295,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:45.053Z",
+        "checkedAt": "2026-10-27T09:25:19.441Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -26305,16 +26305,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000029958/My-Heart-Goes-On-Without-You",
       "episodes": 46,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 13181,
-          "heat": null,
-          "plays": 198136,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:22.198Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -29184,6 +29174,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:45.053Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 13465,
+          "heat": null,
+          "plays": 203096,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:19.441Z"
         }
       ],
       "historyFiles": [
@@ -29194,12 +29194,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 13221,
+        "favorites": 13465,
         "heat": null,
-        "plays": 199772,
+        "plays": 203096,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:45.053Z"
+        "updatedAt": "2026-10-27T09:25:19.441Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-12",
@@ -29217,7 +29217,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:46.101Z",
+        "checkedAt": "2026-10-27T09:25:19.940Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -29227,16 +29227,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000028982/Condemn-Me-My-President",
       "episodes": 43,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 293443,
-          "heat": null,
-          "plays": 10250316,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:23.227Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -32106,6 +32096,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:46.101Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 309713,
+          "heat": null,
+          "plays": 10761728,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:19.940Z"
         }
       ],
       "historyFiles": [
@@ -32116,12 +32116,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 301199,
+        "favorites": 309713,
         "heat": null,
-        "plays": 10497939,
+        "plays": 10761728,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:46.101Z"
+        "updatedAt": "2026-10-27T09:25:19.940Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-06",
@@ -32136,7 +32136,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:47.147Z",
+        "checkedAt": "2026-10-27T09:25:20.631Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -32146,16 +32146,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000027390/Seven-Seals-Broken-The-Archmage-Returns",
       "episodes": 43,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 18828,
-          "heat": null,
-          "plays": 616923,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:23.745Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -35025,6 +35015,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:47.147Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 18908,
+          "heat": null,
+          "plays": 621061,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:20.631Z"
         }
       ],
       "historyFiles": [
@@ -35035,12 +35035,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 18840,
+        "favorites": 18908,
         "heat": null,
-        "plays": 617841,
+        "plays": 621061,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:47.147Z"
+        "updatedAt": "2026-10-27T09:25:20.631Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-09-14",
@@ -35058,7 +35058,7 @@
     {
       "addedAt": "2026-10-19T07:19:32.686Z",
       "availability": {
-        "checkedAt": "2026-10-26T04:33:47.704Z",
+        "checkedAt": "2026-10-27T09:25:21.136Z",
         "evidence": "official_playable_episode",
         "history": [],
         "state": "available"
@@ -35068,16 +35068,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000028927/Don-t-Feed-My-Son-Feed-Me",
       "episodes": 40,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 63965,
-          "heat": null,
-          "plays": 2503697,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:24.256Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -37947,6 +37937,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:47.704Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 64511,
+          "heat": null,
+          "plays": 2533774,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:21.136Z"
         }
       ],
       "historyFiles": [
@@ -37957,12 +37957,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 64203,
+        "favorites": 64511,
         "heat": null,
-        "plays": 2517196,
+        "plays": 2533774,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:47.704Z"
+        "updatedAt": "2026-10-27T09:25:21.136Z"
       },
       "platform": "dramabox",
       "releaseDate": "2026-10-05",
@@ -37993,16 +37993,6 @@
       "dramaUrl": "https://www.dramabox.com/drama/42000029963/Too-Wet-For-Yoga",
       "episodes": 37,
       "history": [
-        {
-          "comments": null,
-          "danmaku": null,
-          "favorites": 516580,
-          "heat": null,
-          "plays": 13783199,
-          "rating": null,
-          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-          "updatedAt": "2026-10-25T04:30:24.748Z"
-        },
         {
           "comments": null,
           "danmaku": null,
@@ -40872,6 +40862,16 @@
           "rating": null,
           "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
           "updatedAt": "2026-10-26T04:33:48.226Z"
+        },
+        {
+          "comments": null,
+          "danmaku": null,
+          "favorites": 515821,
+          "heat": null,
+          "plays": 13783200,
+          "rating": null,
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-10-27T09:25:21.808Z"
         }
       ],
       "historyFiles": [
@@ -40882,12 +40882,12 @@
       "metrics": {
         "comments": null,
         "danmaku": null,
-        "favorites": 516207,
+        "favorites": 515821,
         "heat": null,
         "plays": 13783200,
         "rating": null,
         "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
-        "updatedAt": "2026-10-26T04:33:48.226Z"
+        "updatedAt": "2026-10-27T09:25:21.808Z"
       },
       "platform": "dramabox",
       "review": "",
@@ -40901,6 +40901,6 @@
       "title": "Too Wet For Yoga"
     }
   ],
-  "updatedAt": "2026-10-26T04:34:54.903Z",
+  "updatedAt": "2026-10-27T09:26:02.878Z",
   "version": 1
 }
