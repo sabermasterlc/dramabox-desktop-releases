@@ -9,10 +9,10 @@
 多平台片库 · 剧场与沉浸播放 · AI 字幕 · 收藏续播 · 项目管理
 
 [![Windows 1.1.0](https://img.shields.io/badge/Windows-1.1.0-27DCCB?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.0)
-[![macOS preview](https://img.shields.io/badge/macOS-Apple_Silicon_Preview-AF8CFF?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.16.0-macos-preview)
+[![macOS native preview](https://img.shields.io/badge/macOS-Native_Preview_0.1.0-AF8CFF?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.1.0-macos-native-preview)
 [![Release channel](https://img.shields.io/badge/Updates-Signature_Verified-FF7192?style=flat-square&labelColor=171B29)](#下载与升级)
 
-**[下载 Windows 安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.0/DRAVO_1.1.0_x64-setup.exe)** · **[下载完整免安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.0/DRAVO-1.1.0-windows-x64-portable.zip)** · **[macOS 预览版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.16.0-macos-preview)**
+**[下载 Windows 安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.0/DRAVO_1.1.0_x64-setup.exe)** · **[下载完整免安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.0/DRAVO-1.1.0-windows-x64-portable.zip)** · **[Mac 原生新界面预览](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.1.0-macos-native-preview)**
 
 [这次更新](#dravo-110这次有什么不同) · [平台接入状态](#平台接入状态) · [使用指南](#下载与升级) · [反馈问题](https://github.com/sabermasterlc/dramabox-desktop-releases/issues)
 
@@ -88,6 +88,7 @@ DRAVO 由原 DramaBox 桌面客户端升级而来，把片库浏览、平台切�
 | 版本 | 下载 | 说明 |
 | --- | --- | --- |
 | **Windows 1.1.0 · x64** | [安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.0/DRAVO_1.1.0_x64-setup.exe) · [完整免安装 ZIP](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.0/DRAVO-1.1.0-windows-x64-portable.zip) | Windows 10 / 11；使用系统 WebView2，AI 模型按需另行准备 |
+| **macOS 原生 0.1.0 · 开发预览** | [Liquid Glass 新界面 ZIP](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.1.0-macos-native-preview/DramaBox-Native-macOS-arm64-dev.zip) | **Apple M 芯片、macOS 26+**；独立原生重建，功能尚未与 Windows 同步 |
 | **macOS 0.16.0 · 历史预览版** | [Apple M 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.16.0-macos-preview/DramaBox_0.16.0_aarch64.dmg) | macOS 14+，仍使用 DramaBox 名称；**不是 DRAVO 1.1.0** |
 
 ### Windows 首次使用
@@ -101,6 +102,12 @@ DRAVO 由原 DramaBox 桌面客户端升级而来，把片库浏览、平台切�
 免安装版继续使用原应用的数据目录，建议避免与旧版同时运行。需要自动安装更新时，请使用安装版。0.8.0 及更早版本须先手动安装新版。
 
 关闭主窗口会暂停视频并收起到托盘；彻底退出请使用托盘菜单。macOS 预览版仍手动下载更新，其安装、签名和实机验证范围见 [历史说明](docs/legacy-dramabox.md#macos)。
+
+### Mac 原生新界面预览
+
+新原生包使用 SwiftUI、系统 Liquid Glass 和 AVKit，要求 **Apple M 芯片、macOS 26+**。解压 ZIP 后，将 `DramaBox Native.app` 拖到“应用程序”。应用仍显示原开发包名称，使用独立数据标识。
+
+该包已通过云编译、4 项测试与开发签名结构检查；真实 Mac 启动、视觉交互和播放尚待验证。附加启动检查因 GitHub Mac runner 容量不足而未执行。账号、AI 字幕、项目管理及 Windows 多平台接入尚未迁移。[查看完整范围与源码说明](docs/native-macos-preview.md)
 
 ### 附件如何选择
 
@@ -119,7 +126,7 @@ DRAVO 由原 DramaBox 桌面客户端升级而来，把片库浏览、平台切�
 
 **为什么片库或海报加载失败？** 先检查所选平台、内容语言和连接方式。地区、网络出口、平台访问策略与网页变化都可能影响结果。公司 Wi-Fi 专用通道尚未覆盖全部新增平台域名。
 
-**Mac 是否也更新到了 1.1.0？** 尚未发布 DRAVO 1.1.0 Mac 包。下载区保留 Apple M 芯片 0.16.0 历史预览版，其功能和验收范围单独说明。
+**Mac 新版是哪一份？** 新发布的是原生 Liquid Glass **0.1.0 开发预览**，要求 Apple M 芯片和 macOS 26+；包内仍显示 DramaBox Native。它目前支持 DramaBox 公开片库及基础播放，账号、AI 字幕、项目管理和 Windows 新增多平台等能力尚未迁移。macOS 14+ 用户仍可查看旧 Tauri 0.16.0 历史预览版。[原生版完整范围](docs/native-macos-preview.md)
 
 ## 验证与反馈
 
