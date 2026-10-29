@@ -1,148 +1,117 @@
 <div align="center">
 
-<img src="docs/images/dravo-icon.png" width="80" alt="DRAVO 软件图标">
+<img src="docs/images/dravo-icon.png" width="64" alt="DRAVO 软件图标">
 
-<img src="docs/images/dravo-banner.svg" width="100%" alt="DRAVO — More Stories. One Screen.">
+<img src="docs/images/dravo-banner.svg" width="100%" alt="DRAVO · More Stories. One Screen.">
 
-### 你的短剧放映室，现在叫 DRAVO。
+### 把好故事，放到你的电脑上。
 
-多平台片库 · 剧场与沉浸播放 · AI 字幕 · 收藏续播 · 项目管理
+DramaBox 剧场 · 多平台切换 · AI 字幕翻译 · 共享弹幕 · 收藏续播
 
 [![Windows 1.1.4](https://img.shields.io/badge/Windows-1.1.4-27DCCB?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.4)
-[![macOS native preview](https://img.shields.io/badge/macOS-Native_Preview_0.1.0-AF8CFF?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.1.0-macos-native-preview)
-[![Release channel](https://img.shields.io/badge/Updates-Signature_Verified-FF7192?style=flat-square&labelColor=171B29)](#下载与升级)
+[![macOS 1.1.5](https://img.shields.io/badge/macOS-1.1.5_Preview-AF8CFF?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.5-macos-preview)
 
-**[下载 Windows 安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.4/DRAVO_1.1.4_x64-setup.exe)** · **[下载完整免安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.4/DRAVO-1.1.4-windows-x64-portable.zip)** · **[Mac 原生新界面预览](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v0.1.0-macos-native-preview)**
+**[⬇ 下载 Windows 安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.4/DRAVO_1.1.4_x64-setup.exe)**　｜　**[🍎 下载 Mac 1.1.5](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.5-macos-preview/DRAVO_1.1.5_aarch64.dmg)**
 
-[这次更新](#dravo-114这次有什么不同) · [平台接入状态](#平台接入状态) · [使用指南](#下载与升级) · [反馈问题](https://github.com/sabermasterlc/dramabox-desktop-releases/issues)
+Windows 10 / 11 · macOS 14+，Apple M 系列芯片
+
+[功能一览](#看剧也可以更顺手) · [平台支持](#平台支持) · [安装与升级](#安装与升级) · [反馈问题](https://github.com/sabermasterlc/dramabox-desktop-releases/issues)
 
 </div>
 
 ---
 
-DRAVO 由原 DramaBox 桌面客户端升级而来，把片库浏览、平台切换、播放和本机记录放进同一款桌面软件。选一部剧，在大屏上看；需要兼顾其他事情时，切到置顶小窗，之后接着上次的进度继续。
+## 从 DramaBox 开始，找到下一部想看的剧
 
-**新名字，原来的使用记录。** 本次 Windows 迭代沿用旧软件的应用标识、数据目录和更新渠道。DramaBox 作为内容平台仍保留原名；窗口左上角显示当前片源自己的图标与名称。
+![DramaBox 平台剧场首页：大幅推荐、海报片库和桌面导航](docs/screenshots/theater-home.png)
 
-![DRAVO 1.1.0 Windows 原生窗口：GoodShort 片库与对应平台图标](docs/screenshots/dravo-goodshort-1.1.0.png)
+*DramaBox 平台的真实 Windows 界面截图，拍摄于更名前的 0.15.2 版本，用于展示剧场布局。当前软件名为 DRAVO；平台海报与作品资料归各自权利人所有。*
 
-*上图为 1.1.0 Windows 程序实际运行截图。平台海报与作品资料归各自权利人所有。*
+打开片库，挑一部剧，在电脑上接着看。需要兼顾其他事情时，切到置顶小窗；下次回来，从上次的进度继续。原 DramaBox 桌面客户端现已更名为 **DRAVO**，沿用原有应用标识和本机数据目录。
 
-## DRAVO 1.1.4：这次有什么不同
+## 看剧，也可以更顺手
 
-| 更新 | 使用时的变化 |
+| 功能 | 你可以这样用 |
 | --- | --- |
-| **红果短剧接入** | 官方图标与简体中文片库，真人剧、漫剧、AI 剧分类分页，以及官网明确开放的免费集。 |
-| **片库翻页与刷新** | ShortMax、MoboReels、Vigloo 扩展官网分类与分页；片库定时更新，搜索范围在界面明确标注。 |
-| **界面排版修复** | 预约表单、卡片删除操作统一对齐，首页海报保持合理尺寸。 |
-| **播放恢复修复** | 刷新当前集地址时重新核验，保留选集、进度和播放状态；修复 Vigloo 部分初始化分片及字幕失败拖累视频的问题。 |
-| **原记录继续使用** | 保留原应用标识、数据目录、收藏、观看记录和签名更新通道。 |
-| **明确播放边界** | 以作品实时免费范围为准；新增平台账号、会员和付费权益未接通。 |
-
-## 平台接入状态
-
-不同平台的接入深度不同。下表是 **Windows 1.1.4** 的实际范围。
-
-| 平台 | 片库与资料 | 播放与选集 |
-| --- | --- | --- |
-| <img src="docs/images/platforms/dramabox.png" width="22" alt=""> **DramaBox** | 保留现有片库、搜索与详情 | 保留现有播放链，按官网逐集授权 |
-| <img src="docs/images/platforms/hongguo.png" width="22" alt=""> **红果短剧** | 中文首页、真人剧/漫剧/AI 剧分类分页、作品资料与完整选集 | **官网开放的免费集已接入**；播放前逐集重新核验开放范围，App 权益待接入 |
-| <img src="docs/images/platforms/reelshort.png" width="22" alt=""> **ReelShort** | 公开英文片库 | 已有公开免费集适配；付费与账号权益待接入 |
-| <img src="docs/images/platforms/goodshort.png" width="22" alt=""> **GoodShort** | 公开英文片库、作品资料与目录 | 已有公开免费集适配；付费与账号权益待接入 |
-| <img src="docs/images/platforms/shortmax.png" width="22" alt=""> **ShortMax** | 英文分类片库、真实分页、作品资料与选集 | **公开免费集已接通**；付费与账号权益待接入 |
-| <img src="docs/images/platforms/netshort.png" width="22" alt=""> **NetShort** | 真实英文片库、作品资料与目录 | **公开免费集已接通**；付费与账号权益待接入 |
-| <img src="docs/images/platforms/vigloo.png" width="22" alt=""> **Vigloo** | 英文公开片库、分类与游标翻页、作品资料与单季目录 | **公开免费集已接通**；仅无 DRM 且明确免费的章节 |
-| <img src="docs/images/platforms/moboreels.png" width="22" alt=""> **MoboReels** | 英文首页、分类分页及关键词搜索、作品资料与选集 | **公开免费集已接通**；付费与账号权益待接入 |
-| <img src="docs/images/platforms/shortime.png" width="22" alt=""> **Shortime** | 待接入 | 当前不开放切换 |
-| <img src="docs/images/platforms/pinedrama.png" width="22" alt=""> **PineDrama** | 待接入 | 当前不开放切换 |
-
-红果、ShortMax、Vigloo 搜索筛选当前官网片库页，可翻页继续查找；MoboReels 读取官网搜索前 100 张结果卡片并去重；NetShort 暂限官网首页推荐。免费集数以每部作品实时返回的权限为准。新平台账号、会员、云同步和实际视频下载尚未开放。红果、ShortMax、MoboReels、Vigloo 暂不支持从视频识别对白，可以导入已有字幕。
-
-## 为桌面观影准备的工具
-
-| 功能 | 可以做什么 |
-| --- | --- |
-| **剧场与沉浸** | 浏览海报与推荐分区，进入沉浸播放，按需切换宽屏、竖屏、小窗和置顶。 |
-| **AI 字幕** | 读取可用字幕，或在缺少字幕时识别音频；支持翻译、双语显示、样式调整、本机缓存与导出。首次使用按组件管理提示准备模型。[字幕指南](docs/ai-subtitles.md) |
-| **收藏与续播** | 在本机保存收藏、历史和观看进度，支持导入、导出；不同平台与账号的记录分别保存。 |
-| **项目与笔记** | 分开管理个人项目与作者项目，保存观影笔记和选集清单，查看公开指标及记录趋势。[项目数据指南](docs/project-data.md) |
-| **播放控制** | 分组选集、自动下一集、倍速、全屏；音轨与字幕选项以片源实际提供为准。 |
-| **预约与更新** | 软件运行期间检查支持的剧集更新；Windows 安装版可检查新软件版本，验签后由用户选择安装。 |
+| **AI 字幕翻译** | 使用片源字幕、导入 SRT / VTT，或在支持的片源中听音识别；选择本地模型或在线 API 转译，调整双语样式、保存和导出字幕。[字幕指南](docs/ai-subtitles.md) |
+| **剧场与沉浸播放** | 海报找剧、快捷选集、倍速、全屏、竖屏与置顶小窗，把浏览和观看放在一个界面里。 |
+| **共享弹幕** | 边看边分享感受；共享弹幕使用独立社区服务，不与内容平台或手机 App 弹幕互通。 |
+| **多平台切换** | 在软件内切换 DramaBox、ReelShort、GoodShort、红果等已接入平台；各平台的片库、播放和账号权益分别处理。 |
+| **收藏与续播** | 本机保存收藏、历史和观看进度，支持记录导入与导出。 |
+| **项目与观影笔记** | 分开管理个人项目和作者项目，记录选集、观影笔记及有来源的公开指标。[项目指南](docs/project-data.md) |
 
 <details>
-<summary><b>查看字幕与项目功能预览</b></summary>
+<summary><b>看看 AI 字幕与播放界面</b></summary>
 
-以下为此前版本的功能参考截图，字幕样式页使用示例字幕；不代表 DRAVO 1.1.4 或 macOS 已完成全部实际使用验收。
-
-| AI 字幕设置 | 字幕样式 |
+| AI 字幕设置 | 沉浸播放 |
 | --- | --- |
-| ![AI 字幕设置](docs/screenshots/ai-subtitles.png) | ![字幕样式](docs/screenshots/subtitle-style.png) |
+| ![AI 字幕设置](docs/screenshots/ai-subtitles.png) | ![沉浸播放](docs/screenshots/immersive-playback.png) |
 
-| 作者项目 | 项目复盘 |
-| --- | --- |
-| ![作者项目](docs/screenshots/creator-projects.png) | ![项目复盘](docs/screenshots/project-data.png) |
+*以上为功能参考截图；字幕样式演示使用示例字幕，当前效果以实际版本和片源为准。*
 
 </details>
 
-## 下载与升级
+## 安装与升级
 
-| 版本 | 下载 | 说明 |
+| 系统 | 下载 | 使用要求 |
 | --- | --- | --- |
-| **Windows 1.1.4 · x64** | [安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.4/DRAVO_1.1.4_x64-setup.exe) · [完整免安装 ZIP](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.4/DRAVO-1.1.4-windows-x64-portable.zip) | Windows 10 / 11；使用系统 WebView2，AI 模型按需另行准备 |
-| **macOS 原生 0.1.0 · 开发预览** | [Liquid Glass 新界面 ZIP](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.1.0-macos-native-preview/DramaBox-Native-macOS-arm64-dev.zip) | **Apple M 芯片、macOS 26+**；独立原生重建，功能尚未与 Windows 同步 |
-| **macOS 0.16.0 · 历史预览版** | [Apple M 芯片 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v0.16.0-macos-preview/DramaBox_0.16.0_aarch64.dmg) | macOS 14+，仍使用 DramaBox 名称；**不是 DRAVO 1.1.4** |
+| **Windows 1.1.4 · x64** | **[下载安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.4/DRAVO_1.1.4_x64-setup.exe)** | Windows 10 / 11，使用系统 WebView2；AI 组件按需准备 |
+| **Mac 1.1.5 · 预览版** | **[下载 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.5-macos-preview/DRAVO_1.1.5_aarch64.dmg)** | macOS 14+、Apple M 系列芯片；本次修复顶栏居中与窄小窗布局 |
 
-### Windows 首次使用
+**Windows：** 下载并安装后，按向导选择平台和网络连接。原安装版可在「设置与快捷键 → 软件更新」检查新版本；下载后会校验更新签名，再由你选择安装。0.8.0 及更早版本需先手动安装新版。
 
-1. 下载并安装 DRAVO，或完整解压免安装 ZIP 后运行其中的程序。保留 ZIP 中的资源目录。
-2. 在首次页面选择平台。已接入平台可打开官网公开免费章节；Shortime、PineDrama 继续显示待接入。
-3. 在网络向导选择可访问对应官网的连接方式。浏览器与软件可能使用不同网络出口；软件不会代你开启 VPN 或更改系统代理。
+**Mac：** 退出旧应用，将 DMG 内的 `DRAVO.app` 拖到“应用程序”；更新时替换原应用即可，保留原有本机数据目录。Mac 预览版使用 DMG 手动更新，采用临时签名，尚未完成 Apple 公证。[Mac 升级说明](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.5-macos-preview/Mac-README.txt)
 
-原 DramaBox 安装版用户可关闭旧软件后升级，也可通过原更新入口检查新版。安装器保留旧版升级识别和数据目录；实际覆盖安装、长期播放和会员流程仍需在用户设备上验证。此前独立 Platform Test 的测试数据不会自动合并。
+本地 AI 首次需下载约 3.1 GB 组件，并至少预留 12 GB 空间。模型启用前请阅读并接受其使用条款。Windows 系统字幕与 Windows 画面 OCR 不适用于 Mac。
 
-免安装版继续使用原应用的数据目录，建议避免与旧版同时运行。需要自动安装更新时，请使用安装版。0.8.0 及更早版本须先手动安装新版。
+关闭 Windows 主窗口会暂停视频并收起到托盘；完全退出请使用托盘菜单。网络出口与官网访问策略可能影响片库和播放，软件不会替你开启 VPN 或更改系统代理。
 
-关闭主窗口会暂停视频并收起到托盘；彻底退出请使用托盘菜单。macOS 预览版仍手动下载更新，其安装、签名和实机验证范围见 [历史说明](docs/legacy-dramabox.md#macos)。
+## 平台支持
 
-### Mac 原生新界面预览
+各平台的接入深度不同。以下是当前共享版本的适配范围；新平台的账号、会员及付费权益仍待接入，免费集数以官网实时返回为准。
 
-新原生包使用 SwiftUI、系统 Liquid Glass 和 AVKit，要求 **Apple M 芯片、macOS 26+**。解压 ZIP 后，将 `DramaBox Native.app` 拖到“应用程序”。应用仍显示原开发包名称，使用独立数据标识。
+| 平台 | 片库与资料 | 播放范围 |
+| --- | --- | --- |
+| <img src="docs/images/platforms/dramabox.png" width="22" alt=""> **DramaBox** | 保留现有片库、搜索与详情 | 通过现有播放链，按官网逐集授权 |
+| <img src="docs/images/platforms/hongguo.png" width="22" alt=""> **红果短剧** | 中文首页、真人剧 / 漫剧 / AI 剧分类分页、资料与选集 | 官网明确开放的免费集，逐集重新核验 |
+| <img src="docs/images/platforms/reelshort.png" width="22" alt=""> **ReelShort** | 公开英文片库 | 已适配的公开免费集 |
+| <img src="docs/images/platforms/goodshort.png" width="22" alt=""> **GoodShort** | 公开英文片库、作品资料与选集 | 已适配的公开免费集 |
+| <img src="docs/images/platforms/shortmax.png" width="22" alt=""> **ShortMax** | 英文分类、真实分页、资料与选集 | 官网公开免费集 |
+| <img src="docs/images/platforms/netshort.png" width="22" alt=""> **NetShort** | 英文首页片库、资料与选集 | 官网公开免费集 |
+| <img src="docs/images/platforms/vigloo.png" width="22" alt=""> **Vigloo** | 英文分类、游标翻页、资料与单季目录 | 无 DRM 且明确免费的章节 |
+| <img src="docs/images/platforms/moboreels.png" width="22" alt=""> **MoboReels** | 英文分类分页、官网搜索、资料与选集 | 官网公开免费集 |
+| <img src="docs/images/platforms/shortime.png" width="22" alt=""> **Shortime** | 待接入 | 暂不开放切换 |
+| <img src="docs/images/platforms/pinedrama.png" width="22" alt=""> **PineDrama** | 待接入 | 暂不开放切换 |
 
-该包已通过云编译、4 项测试与开发签名结构检查；真实 Mac 启动、视觉交互和播放尚待验证。附加启动检查因 GitHub Mac runner 容量不足而未执行。账号、AI 字幕、项目管理及 Windows 多平台接入尚未迁移。[查看完整范围与源码说明](docs/native-macos-preview.md)
+红果、ShortMax、Vigloo 的搜索筛选当前官网片库页，可翻页继续查找；MoboReels 读取官网搜索前 100 张结果卡片并去重；NetShort 暂限官网首页推荐。红果、ShortMax、MoboReels、Vigloo 暂不支持直接从视频识别对白，可以导入已有字幕。云同步和实际视频下载尚未开放。
 
-### 附件如何选择
+## 使用前想知道的几件事
 
-- `DRAVO_1.1.4_x64-setup.exe`：Windows 安装包。
-- `DRAVO-1.1.4-windows-x64-portable.zip`：免安装程序及完整配套资源。
-- `SHA256SUMS.txt`：下载文件的一致性校验值。
-- `latest.json` 与 `.sig`：软件更新器使用，无需手动打开。更新签名不等同 Windows Authenticode 发布者证书。
+**已有记录还能用吗？** DRAVO 沿用原应用标识和本机数据目录；新旧名称的应用请避免同时运行。收藏与观看记录主要保存在本机，换设备前可导出备份。
 
-## 常见问题
+**付费剧集能直接看吗？** 播放始终按平台对当前章节的授权执行。各平台的账号、会员与逐集播放权限相互独立。
 
-**为什么有些剧集不能播放？** 红果及其他新增平台只接入官网明确开放的免费章节。付费或未确认权限的章节会显示授权提示；Shortime、PineDrama 仍待接入。网络出口和官网变化也可能影响实际可用性。
+**Mac 应该下哪一份？** 上方的 **DRAVO 1.1.5 DMG**。它延续原 Tauri Mac 客户端，支持 macOS 14+ 与 Apple M 芯片；旧 SwiftUI 0.1.0 属于另一条开发预览，不能代替此安装包。
 
-**会员集可以直接看吗？** 播放仍按平台对当前章节的授权执行。账号、会员身份和单集播放权限分别核验；不同平台的权益互不通用。
+**验证到什么程度？** Windows 1.1.4 的前端和原生测试、签名及部分公开片源检查已完成；Mac 1.1.5 的云端构建、原生测试、DMG 校验和 AI 安装 / CPU / Metal 受控样本检查通过。真实设备的旧版迁移、全片库播放、会员流程及长期稳定性仍需实际使用验证。
 
-**收藏会与手机同步吗？** 当前主要保存在本机；新平台云同步尚未接通。换电脑前可导出记录。
+问题反馈请附系统与软件版本、平台、网络方式、剧名 / 集号、操作步骤及提示，并遮住账号和配对码等私人信息：[提交问题](https://github.com/sabermasterlc/dramabox-desktop-releases/issues)。
 
-**为什么片库或海报加载失败？** 先检查所选平台、内容语言和连接方式。地区、网络出口、平台访问策略与网页变化都可能影响结果。公司 Wi-Fi 专用通道尚未覆盖全部新增平台域名。
+<details>
+<summary><b>版本记录与开发资料</b></summary>
 
-**Mac 新版是哪一份？** 新发布的是原生 Liquid Glass **0.1.0 开发预览**，要求 Apple M 芯片和 macOS 26+；包内仍显示 DramaBox Native。它目前支持 DramaBox 公开片库及基础播放，账号、AI 字幕、项目管理和 Windows 新增多平台等能力尚未迁移。macOS 14+ 用户仍可查看旧 Tauri 0.16.0 历史预览版。[原生版完整范围](docs/native-macos-preview.md)
+- [Windows 1.1.4 更新说明](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.4)
+- [Mac 1.1.5 顶栏修复](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.5-macos-preview)
+- [独立 SwiftUI 原生界面开发记录](docs/native-macos-preview.md)
+- [更名前的介绍与历史记录](docs/legacy-dramabox.md)
+- [全部发行版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)
 
-## 验证与反馈
+</details>
 
-本轮 Windows 验证：**482 项前端测试、82 项 Rust 常规测试通过**；生产构建、安装包签名和版本绑定验证通过，篡改文件与伪造版本均被拒绝。红果免费第 2、3 集的头部及 5 MB 位置经应用原生分段读取验证通过。**红果实际 WebView 画面、声音、拖动与切集仍待用户设备验收**；动态 CDN 跳转分支尚无实时成功覆盖。
-
-这些结果不替代实际覆盖安装、全片库播放、会员流程、长期运行或 Mac 实机验收。[完整版本说明](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.4)
-
-遇到问题请在 [Issues](https://github.com/sabermasterlc/dramabox-desktop-releases/issues) 提供系统与软件版本、平台、连接方式、剧名/集号、操作步骤和界面提示。请遮住账号、配对码和其他私人信息。
-
-## 关于这个仓库
+---
 
 这是个人开发的非官方第三方客户端，与各内容平台无隶属关系。内容、商标与素材归各自权利人所有，访问以平台授权和可用性为准。
 
-本仓库提供软件发行、使用说明、界面预览及已公开的作者项目数据；应用工程源码和发布凭据不在此公开。GitHub 自动生成的 “Source code” 压缩包包含本发行仓库文件，不是应用工程源码。
+本仓库仅提供软件发行、使用说明、界面预览及已公开的作者项目数据。应用工程源码和发布凭据不在此公开；GitHub 自动生成的 “Source code” 压缩包不是应用工程源码。Windows 网络组件随包提供许可与对应源码归档。
 
-Windows 网络组件随包提供许可与对应源码归档，macOS 包不包含该 Windows 组件。平台标识仅用于说明当前来源。
-
-[作者项目清单](projects.json) · [更名前的介绍与历史记录](docs/legacy-dramabox.md) · [全部发行版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)
+[作者项目清单](projects.json) · [反馈与建议](https://github.com/sabermasterlc/dramabox-desktop-releases/issues)

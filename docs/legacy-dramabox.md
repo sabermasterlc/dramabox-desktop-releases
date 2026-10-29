@@ -1,5 +1,7 @@
 # DramaBox 桌面客户端：更名前的项目介绍
 
+> 当前 DRAVO Mac 下载请使用 [1.1.5 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.5-macos-preview/DRAVO_1.1.5_aarch64.dmg)，支持 macOS 14+、Apple M 芯片。本页保留独立开发或历史记录。
+
 > 历史存档，保留截至 2026-10-28 首页中的旧版本说明。当前 Windows 下载和平台能力以 [DRAVO 首页](../README.md) 为准。
 
 <div align="center">

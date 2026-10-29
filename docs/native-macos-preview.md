@@ -1,5 +1,7 @@
 # DRAVO · 原生 Mac 新界面开发预览 0.1.0
 
+> 当前 DRAVO Mac 下载请使用 [1.1.5 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.5-macos-preview/DRAVO_1.1.5_aarch64.dmg)，支持 macOS 14+、Apple M 芯片。本页保留独立开发或历史记录。
+
 这次开放下载此前完成云编译的 **SwiftUI / Liquid Glass 原生 Mac 新界面开发包**。它是 DRAVO 项目下独立推进的 Mac 原生重建，不等同 Windows 1.1.0 的完整功能迁移。
 
 ## 下载与系统要求
