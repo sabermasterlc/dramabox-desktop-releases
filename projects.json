@@ -40913,8 +40913,106 @@
         "Revenge"
       ],
       "title": "Too Wet For Yoga"
+    },
+    {
+      "scope": "creator",
+      "id": "3034b6a8-0b15-4136-9935-46c6569a48c4",
+      "title": "Mafia Queen's Good Girl",
+      "platform": "dramabox",
+      "kind": "ai",
+      "description": "Pearl is a good girl: three jobs, a dying mother, zero luck. Talia Voss is the opposite: a mafia queen with a bullet in her side and no use for love. One kiss on a train binds them—Pearl becomes her \"good girl,\" collared, bought, forbidden to want more. But when rivals cage Pearl for auction, Talia learns the price of a good girl is a war. She pays it.",
+      "role": "",
+      "status": "已上线",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000032509/42000032509.jpg@w=360&h=640",
+      "dramaUrl": "https://www.dramabox.com/drama/42000032509/Mafia-Queen-s-Good-Girl",
+      "metrics": {
+        "heat": null,
+        "plays": 382974,
+        "favorites": 13798,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-11-05T09:23:40.521Z",
+        "rating": null,
+        "comments": null,
+        "danmaku": null
+      },
+      "history": [
+        {
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-11-05T09:23:40.521Z",
+          "heat": null,
+          "plays": 382974,
+          "favorites": 13798,
+          "comments": null,
+          "danmaku": null,
+          "rating": null
+        }
+      ],
+      "review": "",
+      "addedAt": "2026-11-05T09:23:40.521Z",
+      "episodes": 50,
+      "tags": [
+        "GL",
+        "Revenge"
+      ],
+      "releaseDate": "2026-11-04",
+      "releaseDateField": "firstShelfTime",
+      "availability": {
+        "state": "available",
+        "evidence": "official_playable_episode",
+        "checkedAt": "2026-11-06T08:23:51.376Z",
+        "history": []
+      }
+    },
+    {
+      "scope": "creator",
+      "id": "fd4429d8-eb1b-4e8d-9208-2976f3929369",
+      "title": "My Daddy Is The Dragon God",
+      "platform": "dramabox",
+      "kind": "ai",
+      "description": "Wayne, the last adult Dragon God, hides his power to raise his daughter Rhea as an ordinary \"lizard\" dad. When snobbish nobles Dario and Vivian and their bullying kids torment Rhea at an elite magic academy, Wayne's secret keeps cracking open. Queen Isabelle, a White Tiger king who loves him, backs him as the truth explodes across 51 episodes, ending with her ring and his proposal.",
+      "role": "",
+      "status": "已上线",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000032516/42000032516.jpg@w=360&h=640",
+      "dramaUrl": "https://www.dramabox.com/drama/42000032516/My-Daddy-Is-The-Dragon-God",
+      "metrics": {
+        "heat": null,
+        "plays": 19119,
+        "favorites": 4724,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-11-06T08:15:53.866Z",
+        "rating": null,
+        "comments": null,
+        "danmaku": null
+      },
+      "history": [
+        {
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-11-06T08:15:53.866Z",
+          "heat": null,
+          "plays": 19119,
+          "favorites": 4724,
+          "comments": null,
+          "danmaku": null,
+          "rating": null
+        }
+      ],
+      "review": "",
+      "addedAt": "2026-11-06T08:15:53.867Z",
+      "episodes": 51,
+      "tags": [
+        "Dragon",
+        "Family Bonds"
+      ],
+      "releaseDate": "2026-11-06",
+      "releaseDateField": "firstShelfTime",
+      "availability": {
+        "state": "available",
+        "evidence": "official_playable_episode",
+        "checkedAt": "2026-11-06T08:23:51.393Z",
+        "history": []
+      }
     }
   ],
-  "updatedAt": "2026-11-06T01:17:37.586Z",
+  "updatedAt": "2026-11-06T08:27:39.858Z",
   "version": 1
 }
