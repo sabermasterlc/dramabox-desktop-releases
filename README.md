@@ -8,10 +8,10 @@
 
 全平台剧场 · 自动检测连接 · AI 字幕翻译 · 共享弹幕 · 收藏续播
 
-[![Windows 1.1.11](https://img.shields.io/badge/Windows-1.1.11-27DCCB?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.11)
-[![macOS 1.1.11](https://img.shields.io/badge/macOS-1.1.11-AF8CFF?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.11)
+[![Windows 1.1.12](https://img.shields.io/badge/Windows-1.1.12-27DCCB?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.12)
+[![macOS 1.1.12](https://img.shields.io/badge/macOS-1.1.12-AF8CFF?style=flat-square&labelColor=171B29)](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.12)
 
-**[⬇ 下载 Windows 安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.11/DRAVO_1.1.11_x64-setup.exe)**　｜　**[🍎 下载 Mac 1.1.11](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.11/DRAVO_1.1.11_aarch64.dmg)**
+**[⬇ 下载 Windows 安装版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.12/DRAVO_1.1.12_x64-setup.exe)**　｜　**[🍎 下载 Mac 1.1.12](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.12/DRAVO_1.1.12_aarch64.dmg)**
 
 Windows 10 / 11 · macOS 14+，Apple M 系列芯片
 
@@ -55,12 +55,12 @@ Windows 10 / 11 · macOS 14+，Apple M 系列芯片
 
 | 系统 | 下载 | 使用要求 |
 | --- | --- | --- |
-| **Windows 1.1.11 · x64** | **[下载安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.11/DRAVO_1.1.11_x64-setup.exe)** | Windows 10 / 11，使用系统 WebView2；AI 组件按需准备 |
-| **Mac 1.1.11 · Apple Silicon** | **[下载 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.11/DRAVO_1.1.11_aarch64.dmg)** | macOS 14+、Apple M 系列芯片；软件内检查、下载及签名校验更新 |
+| **Windows 1.1.12 · x64** | **[下载安装包](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.12/DRAVO_1.1.12_x64-setup.exe)** | Windows 10 / 11，使用系统 WebView2；AI 组件按需准备 |
+| **Mac 1.1.12 · Apple Silicon** | **[下载 DMG](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/download/v1.1.12/DRAVO_1.1.12_aarch64.dmg)** | macOS 14+、Apple M 系列芯片；软件内检查、下载及签名校验更新 |
 
 **Windows：** 下载并安装后，首次按玻璃向导选择平台并自动检测连接，完成后会记住设置。已开启 VPN 时先检测系统网络；需要时可填写本机 HTTP 代理端口。原安装版可在「设置与快捷键 → 软件更新」检查新版本；下载后会校验更新签名，再由你选择安装。0.8.0 及更早版本需先手动安装新版。
 
-**Mac：** 退出旧应用，将 DMG 内的 `DRAVO.app` 拖到“应用程序”；更新时替换原应用即可，保留原有本机数据目录。1.1.10 及更早版本需先手动安装一次 1.1.11；从 1.1.11 起可在软件中检查、下载并安装后续更新。应用使用 ad-hoc 签名，尚未完成 Apple 公证。
+**Mac：** 退出旧应用，将 DMG 内的 `DRAVO.app` 拖到“应用程序”；更新时替换原应用即可，保留原有本机数据目录。1.1.10 及更早版本需先手动安装一次 1.1.12；从 1.1.11 起可在软件中检查、下载并安装后续更新。应用使用 ad-hoc 签名，尚未完成 Apple 公证。
 
 本地 AI 首次需下载约 3.1 GB 组件，并至少预留 12 GB 空间。模型启用前请阅读并接受其使用条款。Windows 系统字幕与 Windows 画面 OCR 不适用于 Mac。
 
@@ -80,10 +80,11 @@ Windows 关闭窗口时可选择收起到托盘或退出，支持记住选择；
 | <img src="docs/images/platforms/netshort.png" width="22" alt=""> **NetShort** | 英文首页片库、资料与选集 | 官网公开免费集 |
 | <img src="docs/images/platforms/vigloo.png" width="22" alt=""> **Vigloo** | 英文分类、游标翻页、资料与单季目录 | 无 DRM 且明确免费的章节 |
 | <img src="docs/images/platforms/moboreels.png" width="22" alt=""> **MoboReels** | 英文分类分页、官网搜索、资料与选集 | 官网公开免费集 |
-| <img src="docs/images/platforms/shortime.png" width="22" alt=""> **Shortime** | 待接入 | 暂不开放切换 |
+| <img src="docs/images/platforms/shortime.png" width="22" alt=""> **Shortime** | 英文官网推荐、详情与正片目录；首次准备网页组件 | 官网明确免费、无 DRM 且未要求年龄验证的章节 |
+| **AnyShort** | 公开英文片库、搜索及选集目录 | 官网明确开放的免费集 |
 | <img src="docs/images/platforms/pinedrama.png" width="22" alt=""> **PineDrama** | 待接入 | 暂不开放切换 |
 
-红果、ShortMax、Vigloo 的搜索筛选当前官网片库页，可翻页继续查找；MoboReels 读取官网搜索前 100 张结果卡片并去重；NetShort 暂限官网首页推荐。红果、ShortMax、MoboReels、Vigloo 暂不支持直接从视频识别对白，可以导入已有字幕。云同步和实际视频下载尚未开放。
+红果、ShortMax、Vigloo 的搜索筛选当前官网片库页，可翻页继续查找；MoboReels 读取官网搜索前 100 张结果卡片并去重；NetShort、Shortime 暂限官网推荐范围。Shortime 首次进入点击“准备并加载”，Windows 自动准备运行环境，Mac 需要 Python 3.10–3.13；优先使用本机 Chrome 或 Edge。已有中文时，在 AI 翻译中选择简体中文并使用片源字幕，无需翻译 API。红果、ShortMax、MoboReels、Vigloo 及无字幕的 Shortime 暂不支持直接从视频识别对白，可以导入已有字幕。片库采集先保存本机，由作者手动发布后，其他用户可在设置中同步；实际视频下载尚未开放。
 
 ## 使用前想知道的几件事
 
@@ -91,17 +92,17 @@ Windows 关闭窗口时可选择收起到托盘或退出，支持记住选择；
 
 **付费剧集能直接看吗？** 播放始终按平台对当前章节的授权执行。各平台的账号、会员与逐集播放权限相互独立。
 
-**Mac 应该下哪一份？** 上方的 **DRAVO 1.1.11 DMG**。它延续原 Tauri Mac 客户端，支持 macOS 14+ 与 Apple M 芯片；旧 SwiftUI 0.1.0 属于另一条开发预览，不能代替此安装包。
+**Mac 应该下哪一份？** 上方的 **DRAVO 1.1.12 DMG**。它延续原 Tauri Mac 客户端，支持 macOS 14+ 与 Apple M 芯片；旧 SwiftUI 0.1.0 属于另一条开发预览，不能代替此安装包。
 
-**验证到什么程度？** Windows 1.1.11 的前端和原生测试、签名及部分公开片源检查已完成；Mac 1.1.11 的云端构建、原生测试、DMG 校验和 AI 安装 / CPU / Metal 受控样本检查通过。更新归档结构与版本绑定签名经过校验；实体 Mac 的更新安装、旧版迁移、全片库播放及长期稳定性仍待验收。
+**验证到什么程度？** Windows 1.1.12 的前端和原生测试、签名及部分公开片源检查已完成；Mac 1.1.12 的云端构建、原生测试、DMG 校验和 AI 安装 / CPU / Metal 受控样本检查通过。更新归档结构与版本绑定签名经过校验；实体 Mac 的更新安装、旧版迁移、全片库播放及长期稳定性仍待验收。
 
 问题反馈请附系统与软件版本、平台、网络方式、剧名 / 集号、操作步骤及提示，并遮住账号和配对码等私人信息：[提交问题](https://github.com/sabermasterlc/dramabox-desktop-releases/issues)。
 
 <details>
 <summary><b>版本记录与开发资料</b></summary>
 
-- [Windows 1.1.11 更新说明](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.11)
-- [Mac 1.1.11 软件内更新](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.11)
+- [Windows 1.1.12 更新说明](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.12)
+- [Mac 1.1.12 软件内更新](https://github.com/sabermasterlc/dramabox-desktop-releases/releases/tag/v1.1.12)
 - [独立 SwiftUI 原生界面开发记录](docs/native-macos-preview.md)
 - [更名前的介绍与历史记录](docs/legacy-dramabox.md)
 - [全部发行版](https://github.com/sabermasterlc/dramabox-desktop-releases/releases)
