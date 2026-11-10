@@ -46757,8 +46757,51 @@
         "Family Bonds"
       ],
       "title": "My Daddy Is The Dragon God"
+    },
+    {
+      "id": "1eccd585-effa-4371-b3fb-b216769822c3",
+      "title": "Get Me Out of this Dollhouse: I Want My Daughter Now!",
+      "platform": "dramabox",
+      "kind": "ai",
+      "description": "When mom Charlotte wakes up as a plastic doll in her daughter's dollhouse after her ex-husband's new wife hits her with a car, she suddenly goes from being an overworked mom to becoming a supermom with the picture-perfect doll family! Now she must escape the doll world and return to her real daughter before she loses her forever!",
+      "role": "",
+      "status": "已上线",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000033055/42000033055.jpg@w=360&h=640",
+      "dramaUrl": "https://www.dramabox.com/drama/42000033055/Get-Me-Out-of-this-Dollhouse-I-Want-My-Daughter-Now",
+      "metrics": {
+        "heat": null,
+        "plays": 32662,
+        "favorites": 4265,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-11-10T10:11:42.953Z",
+        "rating": null,
+        "comments": null,
+        "danmaku": null
+      },
+      "history": [
+        {
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-11-10T10:11:42.953Z",
+          "heat": null,
+          "plays": 32662,
+          "favorites": 4265,
+          "comments": null,
+          "danmaku": null,
+          "rating": null
+        }
+      ],
+      "review": "",
+      "addedAt": "2026-11-10T10:11:42.953Z",
+      "episodes": 57,
+      "tags": [
+        "Family Bonds",
+        "Strong Female Lead"
+      ],
+      "releaseDate": "2026-11-10",
+      "releaseDateField": "firstShelfTime",
+      "scope": "creator"
     }
   ],
-  "updatedAt": "2026-11-10T01:56:34.394Z",
+  "updatedAt": "2026-11-10T10:15:40.115Z",
   "version": 1
 }
