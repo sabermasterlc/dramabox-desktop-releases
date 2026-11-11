@@ -48599,8 +48599,94 @@
         "Strong Female Lead"
       ],
       "title": "Get Me Out of this Dollhouse: I Want My Daughter Now!"
+    },
+    {
+      "scope": "creator",
+      "id": "de510b38-a6db-4e10-8a44-2d1e3aa55256",
+      "title": "F-Rank Awakening: Zero to Superhero",
+      "platform": "dramabox",
+      "kind": "unknown",
+      "description": "Everyone writes Jake Miller off as an F-rank loser. Yet the day his powers awaken, the surge of energy erupts from him shakes the universe itself. With three months to save his mom, Jake enters the Superhero Trials to find a healer. His old bully is counting on him to make a fool of himself in front of thousands of people. If that power erupts again in the arena, who'll still be laughing?",
+      "role": "",
+      "status": "已上线",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000033411/42000033411.jpg@w=360&h=640",
+      "dramaUrl": "https://www.dramabox.com/drama/42000033411/F-Rank-Awakening-Zero-to-Superhero",
+      "metrics": {
+        "heat": null,
+        "plays": 6478,
+        "favorites": 2943,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-11-11T02:18:14.215Z",
+        "rating": null,
+        "comments": null,
+        "danmaku": null
+      },
+      "history": [
+        {
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-11-11T02:18:14.215Z",
+          "heat": null,
+          "plays": 6478,
+          "favorites": 2943,
+          "comments": null,
+          "danmaku": null,
+          "rating": null
+        }
+      ],
+      "review": "",
+      "addedAt": "2026-11-11T02:18:14.216Z",
+      "episodes": 50,
+      "tags": [
+        "Comeback Story",
+        "The Chosen One"
+      ],
+      "releaseDate": "2026-11-11",
+      "releaseDateField": "firstShelfTime"
+    },
+    {
+      "id": "673c30da-01d3-405a-955b-b0c2f234a65e",
+      "title": "After Giving Birth to Six Dragonborns, I Became the Dragon Queen",
+      "platform": "dramabox",
+      "kind": "unknown",
+      "description": "Betrayed by her half-sister and fiancé, half-fairy Lois escapes a death trap and spends one spellbound night with Soren, the cold Dragon King. Years later, she is a lowly servant secretly raising the six dragon babies born of that night, until her boldest son mails himself to \"Daddy.\" Now the king wants his heirs, her serpent sister wants her dead, and Lois must decide whether trusting Soren means losing her children, or awakening the power in her own blood.",
+      "role": "",
+      "status": "已上线",
+      "cover": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000033042/42000033042.jpg@w=360&h=640",
+      "dramaUrl": "https://www.dramabox.com/drama/42000033042/After-Giving-Birth-to-Six-Dragonborns-I-Became-the-Dragon-Queen",
+      "metrics": {
+        "heat": null,
+        "plays": 6263,
+        "favorites": 2728,
+        "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+        "updatedAt": "2026-11-11T02:18:57.824Z",
+        "rating": null,
+        "comments": null,
+        "danmaku": null
+      },
+      "history": [
+        {
+          "source": "DramaBox 官网详情：观看 / 追剧指标，统计周期未公开",
+          "updatedAt": "2026-11-11T02:18:57.824Z",
+          "heat": null,
+          "plays": 6263,
+          "favorites": 2728,
+          "comments": null,
+          "danmaku": null,
+          "rating": null
+        }
+      ],
+      "review": "",
+      "addedAt": "2026-11-11T02:18:57.825Z",
+      "episodes": 51,
+      "tags": [
+        "Family Bonds",
+        "Single Mom"
+      ],
+      "releaseDate": "2026-11-11",
+      "releaseDateField": "firstShelfTime",
+      "scope": "creator"
     }
   ],
-  "updatedAt": "2026-11-11T01:10:43.864Z",
+  "updatedAt": "2026-11-11T05:05:45.450Z",
   "version": 1
 }
